@@ -1,0 +1,39 @@
+# Android / Gradle Build Artefacts
+.gradle/
+build/
+app/build/
+android_clone/.gradle/
+android_clone/.kotlin/
+android_clone/app/build/
+android_clone/local.properties
+local.properties
+*.apk
+*.ap_
+*.aab
+*.hprof
+
+# IDE & Editor files
+.idea/
+*.iml
+.vscode/
+.cxx/
+android_clone/.cxx/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Reverse Engineering Raw APK Archives & Intermediate Dumps
+game/*.apkm
+game/*.apk
+game/*.xapk
+re_workspace/extracted_apks/
+re_workspace/unpacked_apkm/
+
+# OS & Temp Logs
+.DS_Store
+Thumbs.db
+*.log

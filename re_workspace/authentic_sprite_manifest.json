@@ -1,0 +1,6902 @@
+{
+  "Alert_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 27,
+    "height": 29,
+    "rotated": false
+  },
+  "Apple_Login_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 21,
+    "height": 26,
+    "rotated": false
+  },
+  "Arrow_Bubble_Player_Chat.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 5,
+    "height": 13,
+    "rotated": false
+  },
+  "Arrow_Bubble_Rival_Chat.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 5,
+    "height": 13,
+    "rotated": false
+  },
+  "Arrow_Friends_Empty_State.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 499,
+    "height": 233,
+    "rotated": false
+  },
+  "Avatar_Picture_Placeholder.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 57,
+    "height": 56,
+    "rotated": false
+  },
+  "Back_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 19,
+    "height": 22,
+    "rotated": false
+  },
+  "Button_Add_Friend.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 45,
+    "height": 45,
+    "rotated": false
+  },
+  "Button_Check_Off.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 45,
+    "height": 45,
+    "rotated": false
+  },
+  "Button_Check_On.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 49,
+    "height": 47,
+    "rotated": false
+  },
+  "Button_Container_Notify.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 75,
+    "height": 33,
+    "rotated": false
+  },
+  "Button_Remove_Friend.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 45,
+    "height": 45,
+    "rotated": false
+  },
+  "Cash_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 49,
+    "height": 50,
+    "rotated": false
+  },
+  "Check_Promo_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 28,
+    "height": 22,
+    "rotated": false
+  },
+  "Close_Button_Full_Screen.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 33,
+    "height": 36,
+    "rotated": false
+  },
+  "Close_Button_Notification.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 24,
+    "height": 24,
+    "rotated": false
+  },
+  "Coin_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 45,
+    "height": 47,
+    "rotated": false
+  },
+  "Currency_Button_Frame.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 65,
+    "height": 41,
+    "rotated": false
+  },
+  "Email_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 26,
+    "height": 20,
+    "rotated": false
+  },
+  "Facebook_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 36,
+    "height": 38,
+    "rotated": false
+  },
+  "Frame_Circle_Green.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 29,
+    "height": 29,
+    "rotated": false
+  },
+  "Frame_Text.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 23,
+    "height": 14,
+    "rotated": false
+  },
+  "Friends_Facebook_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 52,
+    "height": 66,
+    "rotated": false
+  },
+  "Generic_Art_Error_DialogueBox.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 36,
+    "height": 36,
+    "rotated": false
+  },
+  "Generic_Art_White_DialogueBox.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 36,
+    "height": 36,
+    "rotated": false
+  },
+  "Gun_Aa12.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 168,
+    "height": 74,
+    "rotated": false
+  },
+  "Gun_Ak45.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 156,
+    "height": 69,
+    "rotated": false
+  },
+  "Gun_Ar15.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 164,
+    "height": 61,
+    "rotated": false
+  },
+  "Gun_Desert_Eagle.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 88,
+    "height": 53,
+    "rotated": false
+  },
+  "Gun_Emp_Gun.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 182,
+    "height": 83,
+    "rotated": false
+  },
+  "Gun_Flamerthrower.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 180,
+    "height": 72,
+    "rotated": false
+  },
+  "Gun_Grenade_Launcher.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 154,
+    "height": 62,
+    "rotated": false
+  },
+  "Gun_Hunting_Pistol.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 154,
+    "height": 71,
+    "rotated": false
+  },
+  "Gun_M14.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 180,
+    "height": 65,
+    "rotated": false
+  },
+  "Gun_M93BA.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 200,
+    "height": 73,
+    "rotated": false
+  },
+  "Gun_Machete.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 140,
+    "height": 29,
+    "rotated": false
+  },
+  "Gun_Magnum.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 110,
+    "height": 54,
+    "rotated": false
+  },
+  "Gun_Minigun.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 146,
+    "height": 90,
+    "rotated": false
+  },
+  "Gun_Mp5.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 134,
+    "height": 75,
+    "rotated": false
+  },
+  "Gun_Phasr.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 178,
+    "height": 71,
+    "rotated": false
+  },
+  "Gun_Saw_Gun.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 138,
+    "height": 82,
+    "rotated": false
+  },
+  "Gun_Shotgun.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 168,
+    "height": 65,
+    "rotated": false
+  },
+  "Gun_Smaw.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 200,
+    "height": 86,
+    "rotated": false
+  },
+  "Gun_Tavor.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 152,
+    "height": 74,
+    "rotated": false
+  },
+  "Gun_Tec_9.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 130,
+    "height": 88,
+    "rotated": false
+  },
+  "Gun_Uzi.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 122,
+    "height": 78,
+    "rotated": false
+  },
+  "Gun_Xm8.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 162,
+    "height": 78,
+    "rotated": false
+  },
+  "Heap_Of_Cash.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 248,
+    "height": 177,
+    "rotated": false
+  },
+  "Heap_Of_Coins.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 231,
+    "height": 156,
+    "rotated": false
+  },
+  "Icon_Alert.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 118,
+    "height": 95,
+    "rotated": false
+  },
+  "Icon_Armory.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 84,
+    "height": 62,
+    "rotated": false
+  },
+  "Icon_Avatar.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 54,
+    "height": 55,
+    "rotated": false
+  },
+  "Icon_Duration.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 40,
+    "height": 41,
+    "rotated": false
+  },
+  "Icon_Free_Rewards_Node.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 21,
+    "height": 21,
+    "rotated": false
+  },
+  "Icon_Friends.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 62,
+    "height": 64,
+    "rotated": false
+  },
+  "Icon_Information.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 31,
+    "height": 31,
+    "rotated": false
+  },
+  "Icon_Information_Large_Full.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 49,
+    "height": 51,
+    "rotated": false
+  },
+  "Icon_Locked.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 30,
+    "height": 39,
+    "rotated": false
+  },
+  "Icon_Main_Menu_Free_Reward.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 67,
+    "height": 74,
+    "rotated": false
+  },
+  "Icon_New_Maps_Popup_01.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 147,
+    "height": 101,
+    "rotated": false
+  },
+  "Icon_New_Maps_Popup_02.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 148,
+    "height": 101,
+    "rotated": false
+  },
+  "Icon_News.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 27,
+    "height": 22,
+    "rotated": false
+  },
+  "Icon_News_Popup_Slide_1_Chicken_Arm.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 19,
+    "height": 42,
+    "rotated": false
+  },
+  "Icon_News_Popup_Slide_1_Chicken_Body.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 48,
+    "height": 51,
+    "rotated": false
+  },
+  "Icon_News_Popup_Slide_1_Chicken_Head.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 67,
+    "height": 70,
+    "rotated": false
+  },
+  "Icon_News_Popup_Slide_1_Chicken_Leg.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 33,
+    "height": 38,
+    "rotated": false
+  },
+  "Icon_News_Popup_Slide_1_Hourse_Arm.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 18,
+    "height": 42,
+    "rotated": false
+  },
+  "Icon_News_Popup_Slide_1_Hourse_Body.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 48,
+    "height": 49,
+    "rotated": false
+  },
+  "Icon_News_Popup_Slide_1_Hourse_Head.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 56,
+    "height": 70,
+    "rotated": false
+  },
+  "Icon_News_Popup_Slide_1_Hourse_leg.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 31,
+    "height": 37,
+    "rotated": false
+  },
+  "Icon_News_Popup_Slide_1_Shadown.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 173,
+    "height": 16,
+    "rotated": false
+  },
+  "Icon_Piece_Common.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 62,
+    "height": 74,
+    "rotated": false
+  },
+  "Icon_Piece_Epic.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 62,
+    "height": 74,
+    "rotated": false
+  },
+  "Icon_Piece_Rare.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 62,
+    "height": 74,
+    "rotated": false
+  },
+  "Icon_Ranks_Popup.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 144,
+    "height": 132,
+    "rotated": false
+  },
+  "Icon_Selected.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 38,
+    "height": 38,
+    "rotated": false
+  },
+  "Icon_Store.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 80,
+    "height": 67,
+    "rotated": false
+  },
+  "Icon_Timer.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 22,
+    "height": 23,
+    "rotated": false
+  },
+  "Icon_Unlocked.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 30,
+    "height": 44,
+    "rotated": false
+  },
+  "Icon_Video.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 24,
+    "height": 26,
+    "rotated": false
+  },
+  "Leave_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 23,
+    "height": 25,
+    "rotated": false
+  },
+  "LevelBar_Bar_Tip.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 36,
+    "height": 51,
+    "rotated": false
+  },
+  "Level_Bar_Fill.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 31,
+    "height": 12,
+    "rotated": false
+  },
+  "Level_Bar_Frame.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 32,
+    "height": 15,
+    "rotated": false
+  },
+  "Level_Bar_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 31,
+    "height": 41,
+    "rotated": false
+  },
+  "Loading_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 40,
+    "height": 34,
+    "rotated": false
+  },
+  "Logo_Game.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 262,
+    "height": 57,
+    "rotated": false
+  },
+  "Miniclip_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 24,
+    "height": 20,
+    "rotated": false
+  },
+  "Offline_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 13,
+    "height": 14,
+    "rotated": false
+  },
+  "Paste_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 29,
+    "height": 36,
+    "rotated": false
+  },
+  "Pile_Of_Cash.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 125,
+    "height": 101,
+    "rotated": false
+  },
+  "Pile_Of_Coins.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 111,
+    "height": 94,
+    "rotated": false
+  },
+  "Popup_Banned_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 99,
+    "height": 89,
+    "rotated": false
+  },
+  "Popup_Check_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 75,
+    "height": 69,
+    "rotated": false
+  },
+  "Popup_Close_Button.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 46,
+    "height": 46,
+    "rotated": false
+  },
+  "Popup_Disconnected_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 107,
+    "height": 122,
+    "rotated": false
+  },
+  "Popup_Exit_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 91,
+    "height": 95,
+    "rotated": false
+  },
+  "Popup_Friends_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 131,
+    "height": 133,
+    "rotated": false
+  },
+  "Popup_Icon_pack.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 265,
+    "height": 128,
+    "rotated": false
+  },
+  "Popup_NoCash_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 113,
+    "height": 83,
+    "rotated": false
+  },
+  "Popup_NoCoins_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 117,
+    "height": 87,
+    "rotated": false
+  },
+  "Popup_Offline_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 105,
+    "height": 122,
+    "rotated": false
+  },
+  "Popup_Stop_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 97,
+    "height": 122,
+    "rotated": false
+  },
+  "Profile_Picture_Placeholder.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 140,
+    "height": 140,
+    "rotated": false
+  },
+  "Report_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 13,
+    "height": 13,
+    "rotated": false
+  },
+  "Rewards_Node_Corner.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 37,
+    "height": 39,
+    "rotated": false
+  },
+  "Rewards_Node_Middle.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 37,
+    "height": 39,
+    "rotated": false
+  },
+  "Search_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 26,
+    "height": 27,
+    "rotated": false
+  },
+  "Settings_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 26,
+    "height": 29,
+    "rotated": false
+  },
+  "Share_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 33,
+    "height": 39,
+    "rotated": false
+  },
+  "Shop_Small_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 27,
+    "height": 24,
+    "rotated": false
+  },
+  "Smoke.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 223,
+    "height": 101,
+    "rotated": false
+  },
+  "Speech_Bubble_Arrow.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 18,
+    "height": 12,
+    "rotated": false
+  },
+  "Stack_Of_Cash.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 105,
+    "height": 88,
+    "rotated": false
+  },
+  "Stack_Of_Coins.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 107,
+    "height": 76,
+    "rotated": false
+  },
+  "Starter_Pack_Icon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 155,
+    "height": 138,
+    "rotated": false
+  },
+  "Stash_Of_Cash.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 209,
+    "height": 147,
+    "rotated": false
+  },
+  "Stash_Of_Coins.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 185,
+    "height": 139,
+    "rotated": false
+  },
+  "Toggle_Knob.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 53,
+    "height": 53,
+    "rotated": false
+  },
+  "Toggle_Off.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 118,
+    "height": 56,
+    "rotated": false
+  },
+  "Toggle_On.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 118,
+    "height": 56,
+    "rotated": false
+  },
+  "VFX_Battle_Btn.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 82,
+    "height": 78,
+    "rotated": false
+  },
+  "VFX_Particle_Balls.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 20,
+    "height": 20,
+    "rotated": false
+  },
+  "Vault_Of_Cash.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 245,
+    "height": 198,
+    "rotated": false
+  },
+  "Vault_Of_Coins.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 231,
+    "height": 196,
+    "rotated": false
+  },
+  "Vfx_FTUE_Battle_Btn_01.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 98,
+    "height": 93,
+    "rotated": false
+  },
+  "Vfx_FTUE_Battle_Btn_02.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 106,
+    "height": 106,
+    "rotated": false
+  },
+  "Vfx_FTUE_Battle_Btn_03.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 112,
+    "height": 112,
+    "rotated": false
+  },
+  "Wallet_Of_Cash.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 166,
+    "height": 123,
+    "rotated": false
+  },
+  "Wallet_Of_Coins.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 154,
+    "height": 115,
+    "rotated": false
+  },
+  "White_Frame.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 23,
+    "height": 23,
+    "rotated": false
+  },
+  "White_Rect.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 22,
+    "height": 1,
+    "rotated": false
+  },
+  "icon_add_friends.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 24,
+    "height": 26,
+    "rotated": false
+  },
+  "whatsappIcon.png": {
+    "atlas": "Generic-540p.plist",
+    "width": 32,
+    "height": 35,
+    "rotated": false
+  },
+  "AA12.png": {
+    "atlas": "menuTexture.plist",
+    "width": 103,
+    "height": 45,
+    "rotated": false
+  },
+  "Control_Highlight_Large.png": {
+    "atlas": "menuTexture.plist",
+    "width": 83,
+    "height": 83,
+    "rotated": false
+  },
+  "Control_Highlight_Small.png": {
+    "atlas": "menuTexture.plist",
+    "width": 67,
+    "height": 65,
+    "rotated": false
+  },
+  "StretchFrame_Black.png": {
+    "atlas": "menuTexture.plist",
+    "width": 15,
+    "height": 15,
+    "rotated": false
+  },
+  "aim.png": {
+    "atlas": "menuTexture.plist",
+    "width": 40,
+    "height": 4,
+    "rotated": false
+  },
+  "ak47.png": {
+    "atlas": "menuTexture.plist",
+    "width": 102,
+    "height": 44,
+    "rotated": false
+  },
+  "ammoBar.png": {
+    "atlas": "menuTexture.plist",
+    "width": 141,
+    "height": 42,
+    "rotated": false
+  },
+  "ammoBtn.png": {
+    "atlas": "menuTexture.plist",
+    "width": 63,
+    "height": 62,
+    "rotated": false
+  },
+  "arrowAlert.png": {
+    "atlas": "menuTexture.plist",
+    "width": 19,
+    "height": 33,
+    "rotated": false
+  },
+  "b03_left.png": {
+    "atlas": "menuTexture.plist",
+    "width": 42,
+    "height": 40,
+    "rotated": false
+  },
+  "b03_sq.png": {
+    "atlas": "menuTexture.plist",
+    "width": 53,
+    "height": 40,
+    "rotated": false
+  },
+  "bar.png": {
+    "atlas": "menuTexture.plist",
+    "width": 1,
+    "height": 3,
+    "rotated": false
+  },
+  "bar_long.png": {
+    "atlas": "menuTexture.plist",
+    "width": 72,
+    "height": 3,
+    "rotated": false
+  },
+  "boost.png": {
+    "atlas": "menuTexture.plist",
+    "width": 32,
+    "height": 68,
+    "rotated": false
+  },
+  "bushFan.png": {
+    "atlas": "menuTexture.plist",
+    "width": 166,
+    "height": 151,
+    "rotated": false
+  },
+  "bushLeaf.png": {
+    "atlas": "menuTexture.plist",
+    "width": 157,
+    "height": 77,
+    "rotated": false
+  },
+  "bushPalm.png": {
+    "atlas": "menuTexture.plist",
+    "width": 124,
+    "height": 119,
+    "rotated": false
+  },
+  "cog.png": {
+    "atlas": "menuTexture.plist",
+    "width": 32,
+    "height": 32,
+    "rotated": false
+  },
+  "desertEagle.png": {
+    "atlas": "menuTexture.plist",
+    "width": 56,
+    "height": 33,
+    "rotated": false
+  },
+  "dualBtn.png": {
+    "atlas": "menuTexture.plist",
+    "width": 63,
+    "height": 62,
+    "rotated": false
+  },
+  "emp.png": {
+    "atlas": "menuTexture.plist",
+    "width": 118,
+    "height": 53,
+    "rotated": false
+  },
+  "emp1.png": {
+    "atlas": "menuTexture.plist",
+    "width": 120,
+    "height": 108,
+    "rotated": false
+  },
+  "emp2.png": {
+    "atlas": "menuTexture.plist",
+    "width": 124,
+    "height": 108,
+    "rotated": false
+  },
+  "empBubble.png": {
+    "atlas": "menuTexture.plist",
+    "width": 126,
+    "height": 126,
+    "rotated": false
+  },
+  "empNade.png": {
+    "atlas": "menuTexture.plist",
+    "width": 19,
+    "height": 27,
+    "rotated": false
+  },
+  "everTree.png": {
+    "atlas": "menuTexture.plist",
+    "width": 127,
+    "height": 247,
+    "rotated": false
+  },
+  "explosion.png": {
+    "atlas": "menuTexture.plist",
+    "width": 118,
+    "height": 117,
+    "rotated": false
+  },
+  "fanTree.png": {
+    "atlas": "menuTexture.plist",
+    "width": 115,
+    "height": 273,
+    "rotated": false
+  },
+  "firePad.png": {
+    "atlas": "menuTexture.plist",
+    "width": 81,
+    "height": 80,
+    "rotated": false
+  },
+  "fireStick.png": {
+    "atlas": "menuTexture.plist",
+    "width": 64,
+    "height": 63,
+    "rotated": false
+  },
+  "flame.png": {
+    "atlas": "menuTexture.plist",
+    "width": 38,
+    "height": 64,
+    "rotated": false
+  },
+  "flame1.png": {
+    "atlas": "menuTexture.plist",
+    "width": 112,
+    "height": 84,
+    "rotated": false
+  },
+  "flame2.png": {
+    "atlas": "menuTexture.plist",
+    "width": 98,
+    "height": 96,
+    "rotated": false
+  },
+  "flamethrower.png": {
+    "atlas": "menuTexture.plist",
+    "width": 118,
+    "height": 45,
+    "rotated": false
+  },
+  "flare.png": {
+    "atlas": "menuTexture.plist",
+    "width": 35,
+    "height": 29,
+    "rotated": false
+  },
+  "gasNade.png": {
+    "atlas": "menuTexture.plist",
+    "width": 22,
+    "height": 28,
+    "rotated": false
+  },
+  "grenade.png": {
+    "atlas": "menuTexture.plist",
+    "width": 21,
+    "height": 28,
+    "rotated": false
+  },
+  "grenadeBtn.png": {
+    "atlas": "menuTexture.plist",
+    "width": 52,
+    "height": 52,
+    "rotated": false
+  },
+  "hawkDrone.png": {
+    "atlas": "menuTexture.plist",
+    "width": 86,
+    "height": 83,
+    "rotated": false
+  },
+  "healthBar.png": {
+    "atlas": "menuTexture.plist",
+    "width": 124,
+    "height": 42,
+    "rotated": false
+  },
+  "hunting.png": {
+    "atlas": "menuTexture.plist",
+    "width": 116,
+    "height": 41,
+    "rotated": false
+  },
+  "huntingPistol.png": {
+    "atlas": "menuTexture.plist",
+    "width": 95,
+    "height": 43,
+    "rotated": false
+  },
+  "laser.png": {
+    "atlas": "menuTexture.plist",
+    "width": 115,
+    "height": 45,
+    "rotated": false
+  },
+  "lock.png": {
+    "atlas": "menuTexture.plist",
+    "width": 17,
+    "height": 25,
+    "rotated": false
+  },
+  "m16.png": {
+    "atlas": "menuTexture.plist",
+    "width": 107,
+    "height": 40,
+    "rotated": false
+  },
+  "m61.png": {
+    "atlas": "menuTexture.plist",
+    "width": 104,
+    "height": 64,
+    "rotated": false
+  },
+  "m61B.png": {
+    "atlas": "menuTexture.plist",
+    "width": 51,
+    "height": 4,
+    "rotated": false
+  },
+  "machete.png": {
+    "atlas": "menuTexture.plist",
+    "width": 90,
+    "height": 18,
+    "rotated": false
+  },
+  "magnum.png": {
+    "atlas": "menuTexture.plist",
+    "width": 71,
+    "height": 35,
+    "rotated": false
+  },
+  "medPack.png": {
+    "atlas": "menuTexture.plist",
+    "width": 64,
+    "height": 53,
+    "rotated": false
+  },
+  "meleeBtn.png": {
+    "atlas": "menuTexture.plist",
+    "width": 52,
+    "height": 52,
+    "rotated": false
+  },
+  "mine1.png": {
+    "atlas": "menuTexture.plist",
+    "width": 29,
+    "height": 30,
+    "rotated": false
+  },
+  "mine2.png": {
+    "atlas": "menuTexture.plist",
+    "width": 29,
+    "height": 29,
+    "rotated": false
+  },
+  "mine3.png": {
+    "atlas": "menuTexture.plist",
+    "width": 31,
+    "height": 29,
+    "rotated": false
+  },
+  "mine4.png": {
+    "atlas": "menuTexture.plist",
+    "width": 31,
+    "height": 30,
+    "rotated": false
+  },
+  "minimap0.PNG": {
+    "atlas": "menuTexture.plist",
+    "width": 50,
+    "height": 50,
+    "rotated": false
+  },
+  "minimap1.PNG": {
+    "atlas": "menuTexture.plist",
+    "width": 50,
+    "height": 50,
+    "rotated": false
+  },
+  "minimap10.PNG": {
+    "atlas": "menuTexture.plist",
+    "width": 50,
+    "height": 50,
+    "rotated": false
+  },
+  "minimap11.PNG": {
+    "atlas": "menuTexture.plist",
+    "width": 50,
+    "height": 50,
+    "rotated": false
+  },
+  "minimap12.PNG": {
+    "atlas": "menuTexture.plist",
+    "width": 50,
+    "height": 50,
+    "rotated": false
+  },
+  "minimap13.PNG": {
+    "atlas": "menuTexture.plist",
+    "width": 50,
+    "height": 50,
+    "rotated": false
+  },
+  "minimap14.PNG": {
+    "atlas": "menuTexture.plist",
+    "width": 50,
+    "height": 50,
+    "rotated": false
+  },
+  "minimap15.PNG": {
+    "atlas": "menuTexture.plist",
+    "width": 50,
+    "height": 50,
+    "rotated": false
+  },
+  "minimap16.PNG": {
+    "atlas": "menuTexture.plist",
+    "width": 50,
+    "height": 50,
+    "rotated": false
+  },
+  "minimap17.PNG": {
+    "atlas": "menuTexture.plist",
+    "width": 50,
+    "height": 50,
+    "rotated": false
+  },
+  "minimap18.PNG": {
+    "atlas": "menuTexture.plist",
+    "width": 50,
+    "height": 50,
+    "rotated": false
+  },
+  "minimap2.PNG": {
+    "atlas": "menuTexture.plist",
+    "width": 50,
+    "height": 50,
+    "rotated": false
+  },
+  "minimap3.PNG": {
+    "atlas": "menuTexture.plist",
+    "width": 50,
+    "height": 50,
+    "rotated": false
+  },
+  "minimap4.PNG": {
+    "atlas": "menuTexture.plist",
+    "width": 50,
+    "height": 50,
+    "rotated": false
+  },
+  "minimap5.PNG": {
+    "atlas": "menuTexture.plist",
+    "width": 50,
+    "height": 50,
+    "rotated": false
+  },
+  "minimap6.PNG": {
+    "atlas": "menuTexture.plist",
+    "width": 50,
+    "height": 50,
+    "rotated": false
+  },
+  "minimap7.PNG": {
+    "atlas": "menuTexture.plist",
+    "width": 50,
+    "height": 50,
+    "rotated": false
+  },
+  "minimap8.PNG": {
+    "atlas": "menuTexture.plist",
+    "width": 50,
+    "height": 50,
+    "rotated": false
+  },
+  "minimap9.PNG": {
+    "atlas": "menuTexture.plist",
+    "width": 50,
+    "height": 50,
+    "rotated": false
+  },
+  "mortar.png": {
+    "atlas": "menuTexture.plist",
+    "width": 16,
+    "height": 12,
+    "rotated": false
+  },
+  "movePad.png": {
+    "atlas": "menuTexture.plist",
+    "width": 81,
+    "height": 80,
+    "rotated": false
+  },
+  "moveStick.png": {
+    "atlas": "menuTexture.plist",
+    "width": 64,
+    "height": 63,
+    "rotated": false
+  },
+  "mp5.png": {
+    "atlas": "menuTexture.plist",
+    "width": 86,
+    "height": 47,
+    "rotated": false
+  },
+  "nadeSwitchArea.png": {
+    "atlas": "menuTexture.plist",
+    "width": 2,
+    "height": 2,
+    "rotated": false
+  },
+  "obelisk.png": {
+    "atlas": "menuTexture.plist",
+    "width": 93,
+    "height": 197,
+    "rotated": false
+  },
+  "palmTree.png": {
+    "atlas": "menuTexture.plist",
+    "width": 152,
+    "height": 211,
+    "rotated": false
+  },
+  "pointer.png": {
+    "atlas": "menuTexture.plist",
+    "width": 67,
+    "height": 41,
+    "rotated": false
+  },
+  "rg6.png": {
+    "atlas": "menuTexture.plist",
+    "width": 100,
+    "height": 39,
+    "rotated": false
+  },
+  "rocket.png": {
+    "atlas": "menuTexture.plist",
+    "width": 43,
+    "height": 23,
+    "rotated": false
+  },
+  "sawgun.png": {
+    "atlas": "menuTexture.plist",
+    "width": 93,
+    "height": 55,
+    "rotated": false
+  },
+  "shield.png": {
+    "atlas": "menuTexture.plist",
+    "width": 47,
+    "height": 88,
+    "rotated": false
+  },
+  "shotgun.png": {
+    "atlas": "menuTexture.plist",
+    "width": 108,
+    "height": 41,
+    "rotated": false
+  },
+  "smaw.png": {
+    "atlas": "menuTexture.plist",
+    "width": 163,
+    "height": 67,
+    "rotated": false
+  },
+  "smoke.png": {
+    "atlas": "menuTexture.plist",
+    "width": 129,
+    "height": 128,
+    "rotated": false
+  },
+  "sniper.png": {
+    "atlas": "menuTexture.plist",
+    "width": 129,
+    "height": 46,
+    "rotated": false
+  },
+  "tavor.png": {
+    "atlas": "menuTexture.plist",
+    "width": 97,
+    "height": 46,
+    "rotated": false
+  },
+  "team_mask.png": {
+    "atlas": "menuTexture.plist",
+    "width": 82,
+    "height": 35,
+    "rotated": false
+  },
+  "tec9.png": {
+    "atlas": "menuTexture.plist",
+    "width": 75,
+    "height": 51,
+    "rotated": false
+  },
+  "tooltip_lock_icon.png": {
+    "atlas": "menuTexture.plist",
+    "width": 8,
+    "height": 12,
+    "rotated": false
+  },
+  "uzi.png": {
+    "atlas": "menuTexture.plist",
+    "width": 79,
+    "height": 49,
+    "rotated": false
+  },
+  "wepChangeBtn.png": {
+    "atlas": "menuTexture.plist",
+    "width": 63,
+    "height": 62,
+    "rotated": false
+  },
+  "wepSwitchArea.png": {
+    "atlas": "menuTexture.plist",
+    "width": 2,
+    "height": 2,
+    "rotated": false
+  },
+  "wormDrone.png": {
+    "atlas": "menuTexture.plist",
+    "width": 44,
+    "height": 56,
+    "rotated": false
+  },
+  "wormDroneSaw.png": {
+    "atlas": "menuTexture.plist",
+    "width": 46,
+    "height": 46,
+    "rotated": false
+  },
+  "wormDroneT1.png": {
+    "atlas": "menuTexture.plist",
+    "width": 50,
+    "height": 33,
+    "rotated": false
+  },
+  "wormDroneT2.png": {
+    "atlas": "menuTexture.plist",
+    "width": 50,
+    "height": 28,
+    "rotated": false
+  },
+  "xm8.png": {
+    "atlas": "menuTexture.plist",
+    "width": 104,
+    "height": 49,
+    "rotated": false
+  },
+  "zoomBtn.png": {
+    "atlas": "menuTexture.plist",
+    "width": 63,
+    "height": 62,
+    "rotated": false
+  },
+  "aficionado.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 44,
+    "height": 69,
+    "rotated": false
+  },
+  "agent.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 40,
+    "height": 69,
+    "rotated": false
+  },
+  "assault_armor.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 40,
+    "height": 69,
+    "rotated": false
+  },
+  "bandito.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 50,
+    "height": 77,
+    "rotated": false
+  },
+  "beard_anchor.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 17,
+    "height": 11,
+    "rotated": false
+  },
+  "beard_boxed.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 31,
+    "height": 20,
+    "rotated": false
+  },
+  "beard_bps2_premium_2_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 46,
+    "height": 32,
+    "rotated": false
+  },
+  "beard_bps2_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 46,
+    "height": 26,
+    "rotated": false
+  },
+  "beard_bps3_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 32,
+    "height": 22,
+    "rotated": false
+  },
+  "beard_bps5_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 46,
+    "height": 31,
+    "rotated": false
+  },
+  "beard_bps6_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 26,
+    "height": 10,
+    "rotated": false
+  },
+  "beard_double_chin.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 25,
+    "height": 11,
+    "rotated": false
+  },
+  "beard_full.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 26,
+    "rotated": false
+  },
+  "beard_goatee.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 17,
+    "height": 12,
+    "rotated": false
+  },
+  "beard_stubble.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 47,
+    "height": 27,
+    "rotated": false
+  },
+  "beard_unkempt.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 31,
+    "rotated": false
+  },
+  "belt_bps4_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 54,
+    "height": 17,
+    "rotated": false
+  },
+  "belt_bps4_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 46,
+    "height": 15,
+    "rotated": false
+  },
+  "chicken.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 44,
+    "height": 74,
+    "rotated": false
+  },
+  "clown.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 44,
+    "height": 71,
+    "rotated": false
+  },
+  "color.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 44,
+    "height": 44,
+    "rotated": false
+  },
+  "crash_cart_joe.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 42,
+    "height": 68,
+    "rotated": false
+  },
+  "dead.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 40,
+    "height": 69,
+    "rotated": false
+  },
+  "desert.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 40,
+    "height": 69,
+    "rotated": false
+  },
+  "doodle_army.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 40,
+    "height": 69,
+    "rotated": false
+  },
+  "empty.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 34,
+    "height": 33,
+    "rotated": false
+  },
+  "eyebrows_angled.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 35,
+    "height": 10,
+    "rotated": false
+  },
+  "eyebrows_bps2_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 36,
+    "height": 21,
+    "rotated": false
+  },
+  "eyebrows_bps2_premium_2_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 34,
+    "height": 19,
+    "rotated": false
+  },
+  "eyebrows_bps2_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 34,
+    "height": 16,
+    "rotated": false
+  },
+  "eyebrows_bps3_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 32,
+    "height": 17,
+    "rotated": false
+  },
+  "eyebrows_bps3_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 34,
+    "height": 18,
+    "rotated": false
+  },
+  "eyebrows_bps4_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 22,
+    "height": 12,
+    "rotated": false
+  },
+  "eyebrows_bps5_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 24,
+    "height": 16,
+    "rotated": true
+  },
+  "eyebrows_bps5_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 26,
+    "height": 30,
+    "rotated": false
+  },
+  "eyebrows_bps6_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 24,
+    "height": 16,
+    "rotated": true
+  },
+  "eyebrows_bps6_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 28,
+    "height": 14,
+    "rotated": true
+  },
+  "eyebrows_default.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 33,
+    "height": 8,
+    "rotated": false
+  },
+  "eyebrows_enraged.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 35,
+    "height": 9,
+    "rotated": false
+  },
+  "eyebrows_flat.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 31,
+    "height": 6,
+    "rotated": false
+  },
+  "eyebrows_long.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 37,
+    "height": 7,
+    "rotated": false
+  },
+  "eyebrows_reversed.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 35,
+    "height": 8,
+    "rotated": false
+  },
+  "eyebrows_slanted.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 33,
+    "height": 7,
+    "rotated": false
+  },
+  "eyebrows_thick.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 33,
+    "height": 7,
+    "rotated": false
+  },
+  "eyebrows_thin.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 31,
+    "height": 5,
+    "rotated": false
+  },
+  "eyebrows_thin_angled.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 29,
+    "height": 4,
+    "rotated": false
+  },
+  "eyebrows_wary.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 31,
+    "height": 7,
+    "rotated": false
+  },
+  "eyebrows_wave.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 35,
+    "height": 9,
+    "rotated": false
+  },
+  "eyebrows_winged.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 35,
+    "height": 7,
+    "rotated": false
+  },
+  "eyes_almond.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 25,
+    "height": 6,
+    "rotated": false
+  },
+  "eyes_angry.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 27,
+    "height": 6,
+    "rotated": false
+  },
+  "eyes_angry_dots.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 25,
+    "height": 5,
+    "rotated": false
+  },
+  "eyes_baggy.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 27,
+    "height": 9,
+    "rotated": false
+  },
+  "eyes_baggy_dots.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 27,
+    "height": 7,
+    "rotated": false
+  },
+  "eyes_bps2_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 30,
+    "height": 18,
+    "rotated": false
+  },
+  "eyes_bps2_premium_2_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 34,
+    "height": 26,
+    "rotated": false
+  },
+  "eyes_bps2_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 30,
+    "height": 18,
+    "rotated": false
+  },
+  "eyes_bps3_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 26,
+    "height": 17,
+    "rotated": false
+  },
+  "eyes_bps3_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 32,
+    "height": 26,
+    "rotated": false
+  },
+  "eyes_bps4_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 26,
+    "height": 22,
+    "rotated": false
+  },
+  "eyes_bps5_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 24,
+    "height": 18,
+    "rotated": false
+  },
+  "eyes_bps5_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 24,
+    "height": 22,
+    "rotated": false
+  },
+  "eyes_bps6_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 18,
+    "height": 40,
+    "rotated": false
+  },
+  "eyes_bps6_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 22,
+    "height": 18,
+    "rotated": false
+  },
+  "eyes_button.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 21,
+    "height": 8,
+    "rotated": false
+  },
+  "eyes_button_lashes.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 27,
+    "height": 10,
+    "rotated": false
+  },
+  "eyes_closed.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 23,
+    "height": 3,
+    "rotated": false
+  },
+  "eyes_closed_glad.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 23,
+    "height": 4,
+    "rotated": false
+  },
+  "eyes_closed_lashes.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 27,
+    "height": 6,
+    "rotated": false
+  },
+  "eyes_default.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 25,
+    "height": 9,
+    "rotated": false
+  },
+  "eyes_doh.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 23,
+    "height": 7,
+    "rotated": false
+  },
+  "eyes_dots.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 19,
+    "height": 4,
+    "rotated": false
+  },
+  "eyes_double_lids.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 29,
+    "height": 8,
+    "rotated": false
+  },
+  "eyes_glad.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 27,
+    "height": 6,
+    "rotated": false
+  },
+  "eyes_glad_lashes.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 31,
+    "height": 7,
+    "rotated": false
+  },
+  "eyes_half_lids.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 29,
+    "height": 10,
+    "rotated": false
+  },
+  "eyes_lashes.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 29,
+    "height": 8,
+    "rotated": false
+  },
+  "eyes_oval.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 25,
+    "height": 8,
+    "rotated": false
+  },
+  "eyes_slanted.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 27,
+    "height": 6,
+    "rotated": false
+  },
+  "eyes_slanted_lashes.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 31,
+    "height": 8,
+    "rotated": false
+  },
+  "eyes_winged_dots.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 31,
+    "height": 5,
+    "rotated": false
+  },
+  "face_bps1_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 46,
+    "height": 49,
+    "rotated": false
+  },
+  "face_bps5_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 52,
+    "height": 48,
+    "rotated": false
+  },
+  "face_round.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 52,
+    "rotated": false
+  },
+  "face_square.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 52,
+    "rotated": false
+  },
+  "face_thin.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 52,
+    "rotated": false
+  },
+  "fearless.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 38,
+    "height": 70,
+    "rotated": false
+  },
+  "fury.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 40,
+    "height": 70,
+    "rotated": false
+  },
+  "gender_body1.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 47,
+    "height": 48,
+    "rotated": false
+  },
+  "gender_body2.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 47,
+    "height": 46,
+    "rotated": false
+  },
+  "ghillie.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 40,
+    "height": 68,
+    "rotated": false
+  },
+  "glasses_aviators_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 36,
+    "height": 12,
+    "rotated": false
+  },
+  "glasses_bps1_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 48,
+    "height": 18,
+    "rotated": false
+  },
+  "glasses_bps2_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 18,
+    "height": 58,
+    "rotated": false
+  },
+  "glasses_bps3_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 56,
+    "height": 24,
+    "rotated": false
+  },
+  "glasses_bps4_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 58,
+    "height": 28,
+    "rotated": false
+  },
+  "glasses_bps5_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 8,
+    "height": 6,
+    "rotated": false
+  },
+  "glasses_camo_shades_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 36,
+    "height": 13,
+    "rotated": false
+  },
+  "glasses_disguise_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 36,
+    "height": 18,
+    "rotated": false
+  },
+  "glasses_double_frame_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 32,
+    "height": 12,
+    "rotated": true
+  },
+  "glasses_eyepatch.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 25,
+    "rotated": false
+  },
+  "glasses_glasses.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 47,
+    "height": 14,
+    "rotated": false
+  },
+  "glasses_golden_shutters_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 38,
+    "height": 15,
+    "rotated": false
+  },
+  "glasses_protection_goggles.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 16,
+    "rotated": false
+  },
+  "glasses_semi_rimless_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 38,
+    "height": 11,
+    "rotated": false
+  },
+  "glasses_shades.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 47,
+    "height": 13,
+    "rotated": false
+  },
+  "glasses_silver_cat_eyes_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 38,
+    "height": 12,
+    "rotated": false
+  },
+  "glasses_silver_round_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 38,
+    "height": 13,
+    "rotated": false
+  },
+  "glasses_silver_shades.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 47,
+    "height": 13,
+    "rotated": false
+  },
+  "glasses_silver_square_specs_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 40,
+    "height": 12,
+    "rotated": false
+  },
+  "glasses_star_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 40,
+    "height": 16,
+    "rotated": false
+  },
+  "glasses_thick_shades_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 36,
+    "height": 13,
+    "rotated": false
+  },
+  "glasses_thick_silver_shades_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 34,
+    "height": 13,
+    "rotated": false
+  },
+  "glasses_thick_specs_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 38,
+    "height": 13,
+    "rotated": false
+  },
+  "glasses_thug_life_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 36,
+    "height": 9,
+    "rotated": false
+  },
+  "glasses_tilaka.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 5,
+    "height": 5,
+    "rotated": false
+  },
+  "glasses_vintage_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 48,
+    "height": 15,
+    "rotated": false
+  },
+  "gloves_blue_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 30,
+    "height": 33,
+    "rotated": false
+  },
+  "gloves_bps1_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 38,
+    "height": 32,
+    "rotated": false
+  },
+  "gloves_bps1_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 42,
+    "height": 36,
+    "rotated": false
+  },
+  "gloves_bps2_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 22,
+    "height": 35,
+    "rotated": false
+  },
+  "gloves_bps2_premium_2_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 30,
+    "height": 38,
+    "rotated": false
+  },
+  "gloves_bps2_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 26,
+    "height": 37,
+    "rotated": false
+  },
+  "gloves_bps3_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 26,
+    "height": 35,
+    "rotated": false
+  },
+  "gloves_bps3_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 28,
+    "height": 36,
+    "rotated": false
+  },
+  "gloves_bps4_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 34,
+    "height": 34,
+    "rotated": false
+  },
+  "gloves_bps4_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 30,
+    "height": 34,
+    "rotated": false
+  },
+  "gloves_bps5_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 30,
+    "height": 32,
+    "rotated": false
+  },
+  "gloves_bps5_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 32,
+    "height": 35,
+    "rotated": false
+  },
+  "gloves_bps6_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 30,
+    "height": 31,
+    "rotated": false
+  },
+  "gloves_bps6_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 27,
+    "height": 41,
+    "rotated": false
+  },
+  "gloves_branded_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 30,
+    "height": 33,
+    "rotated": false
+  },
+  "gloves_brown_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 30,
+    "height": 33,
+    "rotated": false
+  },
+  "gloves_camo_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 30,
+    "height": 33,
+    "rotated": false
+  },
+  "gloves_cosmic_gauntlets_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 38,
+    "height": 32,
+    "rotated": false
+  },
+  "gloves_dark_gray.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 18,
+    "height": 20,
+    "rotated": false
+  },
+  "gloves_gray.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 18,
+    "height": 20,
+    "rotated": false
+  },
+  "gloves_green_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 30,
+    "height": 33,
+    "rotated": false
+  },
+  "gloves_layered_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 30,
+    "height": 33,
+    "rotated": false
+  },
+  "gloves_light_gray.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 18,
+    "height": 20,
+    "rotated": false
+  },
+  "gloves_mascot_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 30,
+    "height": 33,
+    "rotated": false
+  },
+  "gloves_mittens_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 30,
+    "height": 33,
+    "rotated": false
+  },
+  "gloves_rocket_punch_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 40,
+    "height": 32,
+    "rotated": false
+  },
+  "gloves_striped_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 30,
+    "height": 33,
+    "rotated": false
+  },
+  "gloves_thick_gray_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 30,
+    "height": 33,
+    "rotated": false
+  },
+  "gloves_thick_tan_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 30,
+    "height": 33,
+    "rotated": false
+  },
+  "gloves_trendy_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 30,
+    "height": 33,
+    "rotated": false
+  },
+  "gloves_two_toned_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 30,
+    "height": 33,
+    "rotated": false
+  },
+  "gloves_white.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 18,
+    "height": 20,
+    "rotated": false
+  },
+  "gorilla.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 42,
+    "height": 77,
+    "rotated": false
+  },
+  "guerrillero.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 40,
+    "height": 69,
+    "rotated": false
+  },
+  "hair_afro.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 59,
+    "height": 46,
+    "rotated": false
+  },
+  "hair_bob.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 51,
+    "rotated": false
+  },
+  "hair_bowl.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 53,
+    "height": 37,
+    "rotated": false
+  },
+  "hair_bps1_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 54,
+    "height": 32,
+    "rotated": false
+  },
+  "hair_bps2_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 56,
+    "height": 44,
+    "rotated": false
+  },
+  "hair_bps2_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 58,
+    "height": 48,
+    "rotated": false
+  },
+  "hair_bps3_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 60,
+    "height": 36,
+    "rotated": false
+  },
+  "hair_bps3_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 56,
+    "height": 56,
+    "rotated": false
+  },
+  "hair_bps4_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 58,
+    "height": 36,
+    "rotated": false
+  },
+  "hair_bps4_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 56,
+    "height": 39,
+    "rotated": false
+  },
+  "hair_bps5_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 58,
+    "height": 32,
+    "rotated": false
+  },
+  "hair_bps6_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 48,
+    "height": 30,
+    "rotated": false
+  },
+  "hair_bps6_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 54,
+    "height": 44,
+    "rotated": false
+  },
+  "hair_buzzed.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 47,
+    "height": 35,
+    "rotated": false
+  },
+  "hair_circle.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 33,
+    "rotated": false
+  },
+  "hair_cornrows.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 28,
+    "rotated": false
+  },
+  "hair_crew.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 33,
+    "rotated": false
+  },
+  "hair_crown.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 53,
+    "height": 45,
+    "rotated": false
+  },
+  "hair_curly.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 55,
+    "height": 44,
+    "rotated": false
+  },
+  "hair_curtained.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 35,
+    "rotated": false
+  },
+  "hair_dreadlocks.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 57,
+    "height": 57,
+    "rotated": false
+  },
+  "hair_fringe.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 55,
+    "height": 33,
+    "rotated": false
+  },
+  "hair_hedgehog.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 61,
+    "height": 40,
+    "rotated": false
+  },
+  "hair_hi_top.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 34,
+    "rotated": false
+  },
+  "hair_high_bangs.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 55,
+    "height": 35,
+    "rotated": false
+  },
+  "hair_long_curtained.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 61,
+    "height": 38,
+    "rotated": false
+  },
+  "hair_mohawk.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 29,
+    "height": 26,
+    "rotated": false
+  },
+  "hair_pageboy.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 53,
+    "height": 45,
+    "rotated": false
+  },
+  "hair_parted.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 32,
+    "rotated": false
+  },
+  "hair_parted_line.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 36,
+    "rotated": false
+  },
+  "hair_pigtails.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 61,
+    "height": 39,
+    "rotated": false
+  },
+  "hair_pixie.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 53,
+    "height": 40,
+    "rotated": false
+  },
+  "hair_pompadour.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 55,
+    "height": 37,
+    "rotated": false
+  },
+  "hair_ponytail.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 57,
+    "height": 46,
+    "rotated": false
+  },
+  "hair_princeton.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 35,
+    "rotated": false
+  },
+  "hair_psychobilly.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 45,
+    "rotated": false
+  },
+  "hair_punk.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 55,
+    "height": 39,
+    "rotated": false
+  },
+  "hair_shaggy.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 59,
+    "height": 36,
+    "rotated": false
+  },
+  "hair_sideparted.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 35,
+    "rotated": false
+  },
+  "hair_slicked.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 32,
+    "rotated": false
+  },
+  "hair_spiked.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 35,
+    "rotated": false
+  },
+  "hair_spiked_bangs.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 53,
+    "height": 38,
+    "rotated": false
+  },
+  "hair_spiked_fringes.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 53,
+    "height": 37,
+    "rotated": false
+  },
+  "hair_spined.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 53,
+    "height": 36,
+    "rotated": false
+  },
+  "hair_turban.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 57,
+    "height": 42,
+    "rotated": false
+  },
+  "hair_updo.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 53,
+    "height": 40,
+    "rotated": false
+  },
+  "hair_upswept.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 34,
+    "rotated": false
+  },
+  "hair_wild.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 55,
+    "height": 43,
+    "rotated": false
+  },
+  "hair_wings.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 59,
+    "height": 38,
+    "rotated": false
+  },
+  "harleyquinn.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 52,
+    "height": 78,
+    "rotated": false
+  },
+  "hat_army.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 59,
+    "height": 41,
+    "rotated": false
+  },
+  "hat_bandanna.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 53,
+    "height": 30,
+    "rotated": false
+  },
+  "hat_boonie.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 75,
+    "height": 34,
+    "rotated": false
+  },
+  "hat_bps1_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 54,
+    "height": 50,
+    "rotated": false
+  },
+  "hat_bps2_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 58,
+    "height": 60,
+    "rotated": false
+  },
+  "hat_bps2_premium_2_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 56,
+    "height": 63,
+    "rotated": false
+  },
+  "hat_bps4_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 50,
+    "height": 28,
+    "rotated": false
+  },
+  "hat_bps5_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 62,
+    "height": 30,
+    "rotated": false
+  },
+  "hat_bps5_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 62,
+    "height": 40,
+    "rotated": false
+  },
+  "hat_bps6_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 54,
+    "height": 28,
+    "rotated": false
+  },
+  "hat_bps6_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 62,
+    "height": 32,
+    "rotated": false
+  },
+  "hat_cap.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 57,
+    "height": 29,
+    "rotated": false
+  },
+  "hat_chemical_warfare.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 69,
+    "height": 62,
+    "rotated": false
+  },
+  "hat_cyberwarfare.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 61,
+    "height": 56,
+    "rotated": false
+  },
+  "hat_desert.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 59,
+    "height": 41,
+    "rotated": false
+  },
+  "hat_face_mask.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 53,
+    "height": 56,
+    "rotated": false
+  },
+  "hat_football.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 61,
+    "height": 59,
+    "rotated": false
+  },
+  "hat_green_beret.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 61,
+    "height": 31,
+    "rotated": false
+  },
+  "hat_guerrillero.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 55,
+    "height": 31,
+    "rotated": false
+  },
+  "hat_hockey.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 61,
+    "height": 59,
+    "rotated": false
+  },
+  "hat_jack.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 61,
+    "height": 65,
+    "rotated": false
+  },
+  "hat_lone_wolf.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 59,
+    "height": 60,
+    "rotated": false
+  },
+  "hat_ninja.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 55,
+    "height": 60,
+    "rotated": false
+  },
+  "hat_sea_hunter.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 47,
+    "height": 49,
+    "rotated": false
+  },
+  "hat_sergeant.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 81,
+    "height": 34,
+    "rotated": false
+  },
+  "hat_slasher.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 53,
+    "height": 58,
+    "rotated": false
+  },
+  "hat_snow.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 57,
+    "height": 36,
+    "rotated": false
+  },
+  "hat_trophy_hunter.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 71,
+    "height": 62,
+    "rotated": false
+  },
+  "hat_vendetta.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 33,
+    "height": 40,
+    "rotated": false
+  },
+  "hat_vigilante.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 77,
+    "height": 49,
+    "rotated": false
+  },
+  "horse.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 50,
+    "height": 72,
+    "rotated": false
+  },
+  "mechadoodle.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 42,
+    "height": 70,
+    "rotated": false
+  },
+  "mouth_bottom_lip.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 25,
+    "height": 10,
+    "rotated": false
+  },
+  "mouth_bps2_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 34,
+    "height": 24,
+    "rotated": false
+  },
+  "mouth_bps2_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 34,
+    "height": 12,
+    "rotated": true
+  },
+  "mouth_bps3_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 40,
+    "height": 13,
+    "rotated": false
+  },
+  "mouth_bps3_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 40,
+    "height": 19,
+    "rotated": false
+  },
+  "mouth_bps4_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 38,
+    "height": 23,
+    "rotated": false
+  },
+  "mouth_bps5_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 36,
+    "height": 10,
+    "rotated": false
+  },
+  "mouth_bps5_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 42,
+    "height": 30,
+    "rotated": false
+  },
+  "mouth_bps6_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 36,
+    "height": 13,
+    "rotated": false
+  },
+  "mouth_bps6_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 36,
+    "height": 18,
+    "rotated": false
+  },
+  "mouth_clenched.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 23,
+    "height": 8,
+    "rotated": false
+  },
+  "mouth_double_chin.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 17,
+    "height": 6,
+    "rotated": false
+  },
+  "mouth_elder.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 17,
+    "height": 8,
+    "rotated": false
+  },
+  "mouth_frown.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 17,
+    "height": 4,
+    "rotated": false
+  },
+  "mouth_grin.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 19,
+    "height": 7,
+    "rotated": false
+  },
+  "mouth_laugh.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 19,
+    "height": 8,
+    "rotated": false
+  },
+  "mouth_leaf.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 21,
+    "height": 9,
+    "rotated": false
+  },
+  "mouth_lipstick.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 25,
+    "height": 8,
+    "rotated": false
+  },
+  "mouth_lipstick_clenched.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 23,
+    "height": 12,
+    "rotated": false
+  },
+  "mouth_lipstick_large.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 21,
+    "height": 9,
+    "rotated": false
+  },
+  "mouth_lipstick_small.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 13,
+    "height": 11,
+    "rotated": false
+  },
+  "mouth_lol.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 9,
+    "height": 12,
+    "rotated": false
+  },
+  "mouth_poker_face.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 17,
+    "height": 3,
+    "rotated": false
+  },
+  "mouth_reversed.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 21,
+    "height": 8,
+    "rotated": false
+  },
+  "mouth_shock.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 15,
+    "height": 8,
+    "rotated": false
+  },
+  "mouth_shock_small.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 9,
+    "height": 9,
+    "rotated": false
+  },
+  "mouth_slanted_chin.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 17,
+    "height": 8,
+    "rotated": false
+  },
+  "mouth_smile.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 19,
+    "height": 7,
+    "rotated": false
+  },
+  "mouth_tooth.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 19,
+    "height": 7,
+    "rotated": false
+  },
+  "mouth_wave.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 17,
+    "height": 5,
+    "rotated": false
+  },
+  "mustache_bps2_premium_2_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 40,
+    "height": 23,
+    "rotated": false
+  },
+  "mustache_bps2_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 40,
+    "height": 16,
+    "rotated": false
+  },
+  "mustache_brush.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 25,
+    "height": 11,
+    "rotated": false
+  },
+  "mustache_chevron.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 29,
+    "height": 10,
+    "rotated": false
+  },
+  "mustache_handlebar.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 31,
+    "height": 10,
+    "rotated": false
+  },
+  "mustache_horseshoe.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 27,
+    "height": 14,
+    "rotated": false
+  },
+  "mustache_minimo.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 21,
+    "height": 8,
+    "rotated": false
+  },
+  "navy.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 40,
+    "height": 69,
+    "rotated": false
+  },
+  "neo.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 50,
+    "height": 79,
+    "rotated": false
+  },
+  "outfit_bps10_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 51,
+    "height": 84,
+    "rotated": false
+  },
+  "outfit_bps10_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 49,
+    "height": 84,
+    "rotated": false
+  },
+  "outfit_bps11_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 62,
+    "height": 89,
+    "rotated": false
+  },
+  "outfit_bps11_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 49,
+    "height": 83,
+    "rotated": false
+  },
+  "outfit_bps7_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 51,
+    "height": 85,
+    "rotated": false
+  },
+  "outfit_bps7_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 55,
+    "height": 85,
+    "rotated": false
+  },
+  "outfit_bps8_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 49,
+    "height": 83,
+    "rotated": false
+  },
+  "outfit_bps8_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 51,
+    "height": 84,
+    "rotated": false
+  },
+  "outfit_bps9_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 51,
+    "height": 85,
+    "rotated": false
+  },
+  "outfit_bps9_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 51,
+    "height": 84,
+    "rotated": false
+  },
+  "pants_army.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 29,
+    "rotated": false
+  },
+  "pants_bps1_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 22,
+    "height": 28,
+    "rotated": false
+  },
+  "pants_bps1_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 28,
+    "height": 32,
+    "rotated": false
+  },
+  "pants_bps2_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 30,
+    "height": 36,
+    "rotated": false
+  },
+  "pants_bps2_premium_2_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 30,
+    "height": 40,
+    "rotated": false
+  },
+  "pants_bps2_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 30,
+    "height": 40,
+    "rotated": false
+  },
+  "pants_bps3_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 38,
+    "height": 38,
+    "rotated": false
+  },
+  "pants_bps3_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 36,
+    "height": 42,
+    "rotated": false
+  },
+  "pants_bps4_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 34,
+    "height": 38,
+    "rotated": false
+  },
+  "pants_bps4_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 36,
+    "height": 36,
+    "rotated": false
+  },
+  "pants_bps5_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 32,
+    "height": 36,
+    "rotated": false
+  },
+  "pants_bps5_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 32,
+    "height": 36,
+    "rotated": false
+  },
+  "pants_bps6_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 34,
+    "height": 38,
+    "rotated": false
+  },
+  "pants_bps6_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 34,
+    "height": 37,
+    "rotated": false
+  },
+  "pants_business.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 29,
+    "rotated": false
+  },
+  "pants_dashed_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 24,
+    "height": 28,
+    "rotated": false
+  },
+  "pants_desert.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 30,
+    "rotated": false
+  },
+  "pants_hemmed_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 24,
+    "height": 28,
+    "rotated": false
+  },
+  "pants_jogging_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 24,
+    "height": 28,
+    "rotated": false
+  },
+  "pants_layered_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 24,
+    "height": 28,
+    "rotated": false
+  },
+  "pants_lightning_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 24,
+    "height": 28,
+    "rotated": false
+  },
+  "pants_marine.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 30,
+    "rotated": false
+  },
+  "pants_navy.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 29,
+    "rotated": false
+  },
+  "pants_officer.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 29,
+    "rotated": false
+  },
+  "pants_prison_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 24,
+    "height": 28,
+    "rotated": false
+  },
+  "pants_santa.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 28,
+    "height": 28,
+    "rotated": false
+  },
+  "pants_service.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 29,
+    "rotated": false
+  },
+  "pants_smart_suit.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 29,
+    "rotated": false
+  },
+  "pants_snow.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 29,
+    "rotated": false
+  },
+  "pants_star_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 24,
+    "height": 28,
+    "rotated": false
+  },
+  "pants_stealth.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 29,
+    "rotated": false
+  },
+  "pants_suit_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 24,
+    "height": 28,
+    "rotated": false
+  },
+  "pants_tactical.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 29,
+    "rotated": false
+  },
+  "pants_tux.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 29,
+    "rotated": false
+  },
+  "pants_two_tone_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 24,
+    "height": 28,
+    "rotated": false
+  },
+  "pants_vinaceous_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 24,
+    "height": 28,
+    "rotated": false
+  },
+  "pants_weathered_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 24,
+    "height": 28,
+    "rotated": false
+  },
+  "pants_woodland.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 29,
+    "rotated": false
+  },
+  "psycho_bunny.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 54,
+    "height": 77,
+    "rotated": false
+  },
+  "roy_rage.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 42,
+    "height": 69,
+    "rotated": false
+  },
+  "santa.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 42,
+    "height": 69,
+    "rotated": false
+  },
+  "sarge.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 44,
+    "height": 70,
+    "rotated": false
+  },
+  "scar.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 40,
+    "height": 69,
+    "rotated": false
+  },
+  "scruff_curled.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 57,
+    "height": 54,
+    "rotated": false
+  },
+  "scruff_long.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 55,
+    "height": 52,
+    "rotated": false
+  },
+  "scruff_mullet.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 63,
+    "height": 53,
+    "rotated": false
+  },
+  "scruff_sidelocks.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 57,
+    "height": 54,
+    "rotated": false
+  },
+  "scruff_spiked.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 53,
+    "height": 54,
+    "rotated": false
+  },
+  "scruff_straight.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 47,
+    "height": 51,
+    "rotated": false
+  },
+  "scruff_tails.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 61,
+    "height": 53,
+    "rotated": false
+  },
+  "shirt_belted_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 44,
+    "height": 45,
+    "rotated": false
+  },
+  "shirt_bowtie_suit_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 44,
+    "height": 46,
+    "rotated": false
+  },
+  "shirt_bps1_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 48,
+    "height": 48,
+    "rotated": false
+  },
+  "shirt_bps1_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 48,
+    "height": 51,
+    "rotated": false
+  },
+  "shirt_bps2_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 54,
+    "height": 50,
+    "rotated": false
+  },
+  "shirt_bps2_premium_2_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 52,
+    "height": 44,
+    "rotated": false
+  },
+  "shirt_bps2_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 50,
+    "height": 47,
+    "rotated": false
+  },
+  "shirt_bps3_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 50,
+    "height": 44,
+    "rotated": false
+  },
+  "shirt_bps3_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 50,
+    "height": 52,
+    "rotated": false
+  },
+  "shirt_bps4_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 50,
+    "height": 54,
+    "rotated": false
+  },
+  "shirt_bps4_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 50,
+    "height": 53,
+    "rotated": false
+  },
+  "shirt_bps5_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 62,
+    "height": 52,
+    "rotated": false
+  },
+  "shirt_bps5_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 62,
+    "height": 46,
+    "rotated": false
+  },
+  "shirt_bps6_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 48,
+    "height": 53,
+    "rotated": false
+  },
+  "shirt_bps6_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 58,
+    "height": 54,
+    "rotated": false
+  },
+  "shirt_business.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 49,
+    "rotated": false
+  },
+  "shirt_buttoned_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 44,
+    "height": 45,
+    "rotated": false
+  },
+  "shirt_camo_top_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 44,
+    "height": 44,
+    "rotated": false
+  },
+  "shirt_desert.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 49,
+    "rotated": false
+  },
+  "shirt_gray_polo_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 44,
+    "height": 46,
+    "rotated": false
+  },
+  "shirt_india.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 50,
+    "rotated": false
+  },
+  "shirt_medieval_garb_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 44,
+    "height": 45,
+    "rotated": false
+  },
+  "shirt_navy.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 49,
+    "rotated": false
+  },
+  "shirt_pocketed_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 44,
+    "height": 46,
+    "rotated": false
+  },
+  "shirt_prison_garb_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 44,
+    "height": 45,
+    "rotated": false
+  },
+  "shirt_private.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 50,
+    "rotated": false
+  },
+  "shirt_punk_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 44,
+    "height": 45,
+    "rotated": false
+  },
+  "shirt_red_patch.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 49,
+    "rotated": false
+  },
+  "shirt_santa.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 51,
+    "rotated": false
+  },
+  "shirt_sergeant.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 48,
+    "rotated": false
+  },
+  "shirt_service.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 49,
+    "rotated": false
+  },
+  "shirt_smart_suit.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 49,
+    "rotated": false
+  },
+  "shirt_snow.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 49,
+    "rotated": false
+  },
+  "shirt_star_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 44,
+    "height": 45,
+    "rotated": false
+  },
+  "shirt_stealth.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 47,
+    "height": 47,
+    "rotated": false
+  },
+  "shirt_striped_top_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 44,
+    "height": 44,
+    "rotated": false
+  },
+  "shirt_tank_top.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 47,
+    "height": 49,
+    "rotated": false
+  },
+  "shirt_tux.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 49,
+    "rotated": false
+  },
+  "shirt_two_tone_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 44,
+    "height": 45,
+    "rotated": false
+  },
+  "shirt_two_tone_top_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 44,
+    "height": 44,
+    "rotated": false
+  },
+  "shoes_black_boots.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 34,
+    "height": 20,
+    "rotated": false
+  },
+  "shoes_blue_boots_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 52,
+    "height": 31,
+    "rotated": false
+  },
+  "shoes_bps1_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 50,
+    "height": 34,
+    "rotated": false
+  },
+  "shoes_bps1_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 54,
+    "height": 32,
+    "rotated": false
+  },
+  "shoes_bps2_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 54,
+    "height": 27,
+    "rotated": false
+  },
+  "shoes_bps2_premium_2_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 54,
+    "height": 27,
+    "rotated": false
+  },
+  "shoes_bps2_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 54,
+    "height": 24,
+    "rotated": false
+  },
+  "shoes_bps3_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 52,
+    "height": 30,
+    "rotated": false
+  },
+  "shoes_bps3_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 54,
+    "height": 30,
+    "rotated": false
+  },
+  "shoes_bps4_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 52,
+    "height": 23,
+    "rotated": false
+  },
+  "shoes_bps4_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 56,
+    "height": 25,
+    "rotated": false
+  },
+  "shoes_bps5_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 60,
+    "height": 32,
+    "rotated": false
+  },
+  "shoes_bps5_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 60,
+    "height": 36,
+    "rotated": false
+  },
+  "shoes_bps6_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 60,
+    "height": 28,
+    "rotated": false
+  },
+  "shoes_bps6_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 52,
+    "height": 25,
+    "rotated": false
+  },
+  "shoes_branded_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 52,
+    "height": 31,
+    "rotated": false
+  },
+  "shoes_brown_boots_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 52,
+    "height": 31,
+    "rotated": false
+  },
+  "shoes_camo_boots_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 52,
+    "height": 31,
+    "rotated": false
+  },
+  "shoes_checkered_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 52,
+    "height": 31,
+    "rotated": false
+  },
+  "shoes_dark_gray_boots.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 34,
+    "height": 20,
+    "rotated": false
+  },
+  "shoes_designer_boots_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 54,
+    "height": 37,
+    "rotated": false
+  },
+  "shoes_gray_boots.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 34,
+    "height": 20,
+    "rotated": false
+  },
+  "shoes_gray_sole_boots_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 52,
+    "height": 31,
+    "rotated": false
+  },
+  "shoes_green_boots_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 52,
+    "height": 31,
+    "rotated": false
+  },
+  "shoes_layered_boots_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 52,
+    "height": 31,
+    "rotated": false
+  },
+  "shoes_light_gray_boots.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 34,
+    "height": 20,
+    "rotated": false
+  },
+  "shoes_self_lacing_boots_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 52,
+    "height": 36,
+    "rotated": false
+  },
+  "shoes_stripped_boots_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 52,
+    "height": 31,
+    "rotated": false
+  },
+  "shoes_suede_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 52,
+    "height": 31,
+    "rotated": false
+  },
+  "shoes_tan_sole_boots_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 52,
+    "height": 31,
+    "rotated": false
+  },
+  "shoes_trendy_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 52,
+    "height": 31,
+    "rotated": false
+  },
+  "shoes_two_toned_boots_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 52,
+    "height": 31,
+    "rotated": false
+  },
+  "shoes_white_boots.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 34,
+    "height": 20,
+    "rotated": false
+  },
+  "shoes_x_ray_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 52,
+    "height": 31,
+    "rotated": false
+  },
+  "shogun.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 46,
+    "height": 79,
+    "rotated": false
+  },
+  "sideburns_buzzed.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 11,
+    "height": 15,
+    "rotated": false
+  },
+  "sideburns_curved.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 13,
+    "height": 18,
+    "rotated": false
+  },
+  "sideburns_extra_long.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 17,
+    "height": 19,
+    "rotated": false
+  },
+  "sideburns_forked.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 15,
+    "height": 18,
+    "rotated": false
+  },
+  "sideburns_long.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 13,
+    "height": 18,
+    "rotated": false
+  },
+  "sideburns_mutton_chops.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 17,
+    "height": 28,
+    "rotated": false
+  },
+  "sideburns_short.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 13,
+    "height": 18,
+    "rotated": false
+  },
+  "sideburns_square.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 13,
+    "height": 19,
+    "rotated": false
+  },
+  "sikh_warrior.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 42,
+    "height": 70,
+    "rotated": false
+  },
+  "skull.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 46,
+    "height": 72,
+    "rotated": false
+  },
+  "sleeve_bps4_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 32,
+    "height": 46,
+    "rotated": false
+  },
+  "snow.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 42,
+    "height": 69,
+    "rotated": false
+  },
+  "special_forces.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 42,
+    "height": 69,
+    "rotated": false
+  },
+  "terminator.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 48,
+    "height": 79,
+    "rotated": false
+  },
+  "vest_adventurer_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 44,
+    "height": 41,
+    "rotated": false
+  },
+  "vest_aviator_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 44,
+    "height": 44,
+    "rotated": false
+  },
+  "vest_belted_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 46,
+    "height": 35,
+    "rotated": false
+  },
+  "vest_bps1_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 54,
+    "height": 16,
+    "rotated": false
+  },
+  "vest_bps3_premium_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 64,
+    "height": 66,
+    "rotated": false
+  },
+  "vest_bps6_free_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 36,
+    "height": 41,
+    "rotated": false
+  },
+  "vest_bullet_strap.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 47,
+    "height": 47,
+    "rotated": false
+  },
+  "vest_checkered_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 44,
+    "height": 41,
+    "rotated": false
+  },
+  "vest_cowboy_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 44,
+    "height": 41,
+    "rotated": false
+  },
+  "vest_denim_clasps_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 46,
+    "height": 44,
+    "rotated": false
+  },
+  "vest_desert.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 41,
+    "rotated": false
+  },
+  "vest_grenade_belt_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 46,
+    "height": 21,
+    "rotated": false
+  },
+  "vest_gunslinger_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 44,
+    "height": 41,
+    "rotated": false
+  },
+  "vest_metal_belt_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 46,
+    "height": 16,
+    "rotated": false
+  },
+  "vest_padded_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 46,
+    "height": 41,
+    "rotated": false
+  },
+  "vest_pelt_strap_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 26,
+    "height": 44,
+    "rotated": false
+  },
+  "vest_pocketed.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 43,
+    "rotated": false
+  },
+  "vest_protection.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 45,
+    "rotated": false
+  },
+  "vest_safety_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 44,
+    "height": 35,
+    "rotated": false
+  },
+  "vest_shell_belt_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 46,
+    "height": 36,
+    "rotated": false
+  },
+  "vest_strap.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 39,
+    "rotated": false
+  },
+  "vest_suspended.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 47,
+    "height": 32,
+    "rotated": false
+  },
+  "vest_suspenders_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 32,
+    "height": 45,
+    "rotated": false
+  },
+  "vest_tan_body_armor_card.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 44,
+    "height": 35,
+    "rotated": false
+  },
+  "wally.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 46,
+    "height": 79,
+    "rotated": false
+  },
+  "zombie.png": {
+    "atlas": "AvatarCards.plist",
+    "width": 42,
+    "height": 68,
+    "rotated": false
+  },
+  "aficionado_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 44,
+    "height": 20,
+    "rotated": false
+  },
+  "aficionado_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 49,
+    "height": 48,
+    "rotated": false
+  },
+  "aficionado_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 75,
+    "height": 58,
+    "rotated": false
+  },
+  "aficionado_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 41,
+    "rotated": false
+  },
+  "agent_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 44,
+    "height": 21,
+    "rotated": false
+  },
+  "agent_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 49,
+    "height": 50,
+    "rotated": false
+  },
+  "agent_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 59,
+    "height": 59,
+    "rotated": false
+  },
+  "agent_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 41,
+    "rotated": false
+  },
+  "assault_armor_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 44,
+    "height": 20,
+    "rotated": false
+  },
+  "assault_armor_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 49,
+    "height": 51,
+    "rotated": false
+  },
+  "assault_armor_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 55,
+    "height": 58,
+    "rotated": false
+  },
+  "assault_armor_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 41,
+    "rotated": false
+  },
+  "bandito_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 44,
+    "height": 20,
+    "rotated": false
+  },
+  "bandito_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 49,
+    "height": 56,
+    "rotated": false
+  },
+  "bandito_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 85,
+    "height": 74,
+    "rotated": false
+  },
+  "bandito_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 42,
+    "rotated": false
+  },
+  "bps10_free_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 46,
+    "height": 20,
+    "rotated": false
+  },
+  "bps10_free_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 57,
+    "height": 46,
+    "rotated": false
+  },
+  "bps10_free_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 51,
+    "height": 55,
+    "rotated": false
+  },
+  "bps10_free_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 36,
+    "rotated": false
+  },
+  "bps10_premium_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 42,
+    "height": 18,
+    "rotated": false
+  },
+  "bps10_premium_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 50,
+    "height": 55,
+    "rotated": false
+  },
+  "bps10_premium_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 69,
+    "height": 67,
+    "rotated": false
+  },
+  "bps10_premium_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 36,
+    "height": 43,
+    "rotated": false
+  },
+  "bps11_free_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 51,
+    "height": 21,
+    "rotated": false
+  },
+  "bps11_free_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 61,
+    "height": 53,
+    "rotated": false
+  },
+  "bps11_free_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 84,
+    "height": 84,
+    "rotated": false
+  },
+  "bps11_free_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 36,
+    "height": 35,
+    "rotated": false
+  },
+  "bps11_free_wings.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 50,
+    "rotated": false
+  },
+  "bps11_premium_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 46,
+    "height": 21,
+    "rotated": false
+  },
+  "bps11_premium_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 49,
+    "height": 50,
+    "rotated": false
+  },
+  "bps11_premium_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 55,
+    "height": 61,
+    "rotated": false
+  },
+  "bps11_premium_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 36,
+    "height": 35,
+    "rotated": false
+  },
+  "bps7_angel_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 44,
+    "height": 22,
+    "rotated": false
+  },
+  "bps7_angel_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 49,
+    "height": 50,
+    "rotated": false
+  },
+  "bps7_angel_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 53,
+    "height": 63,
+    "rotated": false
+  },
+  "bps7_angel_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 38,
+    "rotated": false
+  },
+  "bps7_angel_wings.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 28,
+    "height": 36,
+    "rotated": false
+  },
+  "bps7_bear_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 46,
+    "height": 23,
+    "rotated": false
+  },
+  "bps7_bear_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 47,
+    "height": 49,
+    "rotated": false
+  },
+  "bps7_bear_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 69,
+    "height": 63,
+    "rotated": false
+  },
+  "bps7_bear_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 36,
+    "height": 40,
+    "rotated": false
+  },
+  "bps8_free_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 44,
+    "height": 20,
+    "rotated": false
+  },
+  "bps8_free_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 49,
+    "height": 52,
+    "rotated": false
+  },
+  "bps8_free_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 51,
+    "height": 54,
+    "rotated": false
+  },
+  "bps8_free_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 39,
+    "rotated": false
+  },
+  "bps8_premium_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 44,
+    "height": 20,
+    "rotated": false
+  },
+  "bps8_premium_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 49,
+    "height": 52,
+    "rotated": false
+  },
+  "bps8_premium_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 53,
+    "height": 53,
+    "rotated": false
+  },
+  "bps8_premium_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 39,
+    "rotated": false
+  },
+  "bps9_free_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 46,
+    "height": 19,
+    "rotated": false
+  },
+  "bps9_free_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 53,
+    "height": 52,
+    "rotated": false
+  },
+  "bps9_free_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 61,
+    "height": 60,
+    "rotated": false
+  },
+  "bps9_free_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 39,
+    "rotated": false
+  },
+  "bps9_premium_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 42,
+    "height": 20,
+    "rotated": false
+  },
+  "bps9_premium_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 54,
+    "height": 56,
+    "rotated": false
+  },
+  "bps9_premium_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 59,
+    "height": 60,
+    "rotated": false
+  },
+  "bps9_premium_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 40,
+    "rotated": false
+  },
+  "chicken_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 44,
+    "height": 21,
+    "rotated": false
+  },
+  "chicken_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 51,
+    "height": 54,
+    "rotated": false
+  },
+  "chicken_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 71,
+    "height": 74,
+    "rotated": false
+  },
+  "chicken_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 41,
+    "rotated": false
+  },
+  "clown_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 44,
+    "height": 22,
+    "rotated": false
+  },
+  "clown_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 49,
+    "height": 53,
+    "rotated": false
+  },
+  "clown_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 79,
+    "height": 72,
+    "rotated": false
+  },
+  "clown_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 36,
+    "height": 42,
+    "rotated": false
+  },
+  "crash_cart_joe_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 46,
+    "height": 20,
+    "rotated": false
+  },
+  "crash_cart_joe_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 49,
+    "height": 52,
+    "rotated": false
+  },
+  "crash_cart_joe_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 55,
+    "height": 58,
+    "rotated": false
+  },
+  "crash_cart_joe_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 36,
+    "height": 41,
+    "rotated": false
+  },
+  "dead_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 44,
+    "height": 21,
+    "rotated": false
+  },
+  "dead_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 51,
+    "height": 51,
+    "rotated": false
+  },
+  "dead_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 55,
+    "height": 58,
+    "rotated": false
+  },
+  "dead_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 42,
+    "rotated": false
+  },
+  "desert_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 44,
+    "height": 20,
+    "rotated": false
+  },
+  "desert_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 49,
+    "height": 50,
+    "rotated": false
+  },
+  "desert_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 57,
+    "height": 57,
+    "rotated": false
+  },
+  "desert_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 41,
+    "rotated": false
+  },
+  "doodle_army_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 46,
+    "height": 21,
+    "rotated": false
+  },
+  "doodle_army_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 51,
+    "height": 50,
+    "rotated": false
+  },
+  "doodle_army_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 57,
+    "height": 57,
+    "rotated": false
+  },
+  "doodle_army_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 41,
+    "rotated": false
+  },
+  "fearless_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 44,
+    "height": 19,
+    "rotated": false
+  },
+  "fearless_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 47,
+    "height": 54,
+    "rotated": false
+  },
+  "fearless_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 53,
+    "height": 55,
+    "rotated": false
+  },
+  "fearless_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 41,
+    "rotated": false
+  },
+  "fury_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 44,
+    "height": 19,
+    "rotated": false
+  },
+  "fury_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 47,
+    "height": 53,
+    "rotated": false
+  },
+  "fury_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 57,
+    "height": 59,
+    "rotated": false
+  },
+  "fury_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 41,
+    "rotated": false
+  },
+  "ghillie_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 44,
+    "height": 21,
+    "rotated": false
+  },
+  "ghillie_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 49,
+    "height": 55,
+    "rotated": false
+  },
+  "ghillie_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 71,
+    "height": 70,
+    "rotated": false
+  },
+  "ghillie_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 36,
+    "height": 41,
+    "rotated": false
+  },
+  "gorilla_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 46,
+    "height": 21,
+    "rotated": false
+  },
+  "gorilla_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 49,
+    "height": 53,
+    "rotated": false
+  },
+  "gorilla_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 57,
+    "height": 74,
+    "rotated": false
+  },
+  "gorilla_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 36,
+    "height": 41,
+    "rotated": false
+  },
+  "guerrillero_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 46,
+    "height": 21,
+    "rotated": false
+  },
+  "guerrillero_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 51,
+    "height": 49,
+    "rotated": false
+  },
+  "guerrillero_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 57,
+    "height": 59,
+    "rotated": false
+  },
+  "guerrillero_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 41,
+    "rotated": false
+  },
+  "harleyquinn_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 46,
+    "height": 18,
+    "rotated": false
+  },
+  "harleyquinn_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 43,
+    "height": 55,
+    "rotated": false
+  },
+  "harleyquinn_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 85,
+    "height": 66,
+    "rotated": false
+  },
+  "harleyquinn_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 30,
+    "height": 43,
+    "rotated": false
+  },
+  "horse_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 46,
+    "height": 21,
+    "rotated": false
+  },
+  "horse_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 51,
+    "height": 52,
+    "rotated": false
+  },
+  "horse_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 61,
+    "height": 74,
+    "rotated": false
+  },
+  "horse_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 40,
+    "rotated": false
+  },
+  "mechadoodle_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 46,
+    "height": 23,
+    "rotated": false
+  },
+  "mechadoodle_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 49,
+    "height": 44,
+    "rotated": false
+  },
+  "mechadoodle_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 55,
+    "height": 56,
+    "rotated": false
+  },
+  "mechadoodle_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 42,
+    "rotated": false
+  },
+  "navy_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 44,
+    "height": 21,
+    "rotated": false
+  },
+  "navy_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 49,
+    "height": 49,
+    "rotated": false
+  },
+  "navy_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 53,
+    "height": 56,
+    "rotated": false
+  },
+  "navy_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 41,
+    "rotated": false
+  },
+  "neo_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 46,
+    "height": 23,
+    "rotated": false
+  },
+  "neo_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 45,
+    "height": 56,
+    "rotated": false
+  },
+  "neo_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 59,
+    "height": 72,
+    "rotated": false
+  },
+  "neo_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 30,
+    "height": 43,
+    "rotated": false
+  },
+  "psycho_bunny_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 46,
+    "height": 23,
+    "rotated": false
+  },
+  "psycho_bunny_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 51,
+    "height": 56,
+    "rotated": false
+  },
+  "psycho_bunny_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 85,
+    "height": 74,
+    "rotated": false
+  },
+  "psycho_bunny_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 36,
+    "height": 43,
+    "rotated": false
+  },
+  "roy_rage_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 46,
+    "height": 20,
+    "rotated": false
+  },
+  "roy_rage_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 49,
+    "height": 48,
+    "rotated": false
+  },
+  "roy_rage_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 65,
+    "height": 57,
+    "rotated": false
+  },
+  "roy_rage_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 41,
+    "rotated": false
+  },
+  "santa_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 46,
+    "height": 22,
+    "rotated": false
+  },
+  "santa_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 51,
+    "height": 51,
+    "rotated": false
+  },
+  "santa_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 59,
+    "height": 59,
+    "rotated": false
+  },
+  "santa_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 36,
+    "height": 41,
+    "rotated": false
+  },
+  "sarge_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 46,
+    "height": 20,
+    "rotated": false
+  },
+  "sarge_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 49,
+    "height": 49,
+    "rotated": false
+  },
+  "sarge_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 83,
+    "height": 60,
+    "rotated": false
+  },
+  "sarge_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 41,
+    "rotated": false
+  },
+  "scar_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 44,
+    "height": 20,
+    "rotated": false
+  },
+  "scar_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 49,
+    "height": 50,
+    "rotated": false
+  },
+  "scar_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 53,
+    "height": 54,
+    "rotated": false
+  },
+  "scar_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 41,
+    "rotated": false
+  },
+  "shogun_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 49,
+    "height": 24,
+    "rotated": false
+  },
+  "shogun_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 52,
+    "height": 60,
+    "rotated": false
+  },
+  "shogun_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 70,
+    "height": 80,
+    "rotated": false
+  },
+  "shogun_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 37,
+    "height": 39,
+    "rotated": false
+  },
+  "sikh_warrior_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 44,
+    "height": 21,
+    "rotated": false
+  },
+  "sikh_warrior_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 51,
+    "height": 48,
+    "rotated": false
+  },
+  "sikh_warrior_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 55,
+    "height": 60,
+    "rotated": false
+  },
+  "sikh_warrior_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 36,
+    "height": 41,
+    "rotated": false
+  },
+  "skull_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 46,
+    "height": 18,
+    "rotated": false
+  },
+  "skull_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 47,
+    "height": 53,
+    "rotated": false
+  },
+  "skull_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 59,
+    "height": 65,
+    "rotated": false
+  },
+  "skull_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 41,
+    "rotated": false
+  },
+  "snow_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 44,
+    "height": 21,
+    "rotated": false
+  },
+  "snow_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 49,
+    "height": 49,
+    "rotated": false
+  },
+  "snow_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 57,
+    "height": 58,
+    "rotated": false
+  },
+  "snow_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 41,
+    "rotated": false
+  },
+  "special_forces_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 46,
+    "height": 21,
+    "rotated": false
+  },
+  "special_forces_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 49,
+    "height": 48,
+    "rotated": false
+  },
+  "special_forces_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 61,
+    "height": 55,
+    "rotated": false
+  },
+  "special_forces_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 40,
+    "rotated": false
+  },
+  "terminator_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 46,
+    "height": 22,
+    "rotated": false
+  },
+  "terminator_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 51,
+    "height": 54,
+    "rotated": false
+  },
+  "terminator_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 61,
+    "height": 74,
+    "rotated": false
+  },
+  "terminator_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 32,
+    "height": 43,
+    "rotated": false
+  },
+  "wally_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 46,
+    "height": 22,
+    "rotated": false
+  },
+  "wally_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 51,
+    "height": 56,
+    "rotated": false
+  },
+  "wally_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 65,
+    "height": 74,
+    "rotated": false
+  },
+  "wally_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 36,
+    "height": 43,
+    "rotated": false
+  },
+  "zombie_arm.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 44,
+    "height": 20,
+    "rotated": false
+  },
+  "zombie_body.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 47,
+    "height": 50,
+    "rotated": false
+  },
+  "zombie_head.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 59,
+    "height": 52,
+    "rotated": false
+  },
+  "zombie_leg.png": {
+    "atlas": "avatarOutfits.plist",
+    "width": 34,
+    "height": 41,
+    "rotated": false
+  },
+  "beard_bps2_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 25,
+    "rotated": false
+  },
+  "beard_bps2_premium_2.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 33,
+    "rotated": false
+  },
+  "beard_bps3_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 13,
+    "height": 9,
+    "rotated": false
+  },
+  "beard_bps5_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 39,
+    "height": 17,
+    "rotated": false
+  },
+  "beard_bps6_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 25,
+    "height": 11,
+    "rotated": false
+  },
+  "belt_army.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 15,
+    "rotated": false
+  },
+  "belt_bps2_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 20,
+    "rotated": false
+  },
+  "belt_bps2_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 47,
+    "height": 14,
+    "rotated": false
+  },
+  "belt_bps2_premium_2.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 20,
+    "rotated": false
+  },
+  "belt_bps3_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 15,
+    "rotated": false
+  },
+  "belt_bps3_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 47,
+    "height": 13,
+    "rotated": false
+  },
+  "belt_bps4_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 47,
+    "height": 15,
+    "rotated": false
+  },
+  "belt_bps4_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 47,
+    "height": 15,
+    "rotated": false
+  },
+  "belt_business.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 15,
+    "rotated": false
+  },
+  "belt_dashed.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 15,
+    "rotated": false
+  },
+  "belt_desert.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 15,
+    "rotated": false
+  },
+  "belt_hemmed.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 15,
+    "rotated": false
+  },
+  "belt_jogging.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 15,
+    "rotated": false
+  },
+  "belt_layered.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 15,
+    "rotated": false
+  },
+  "belt_lightning.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 15,
+    "rotated": false
+  },
+  "belt_marine.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 15,
+    "rotated": false
+  },
+  "belt_navy.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 15,
+    "rotated": false
+  },
+  "belt_officer.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 15,
+    "rotated": false
+  },
+  "belt_prison.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 15,
+    "rotated": false
+  },
+  "belt_santa.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 15,
+    "rotated": false
+  },
+  "belt_service.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 15,
+    "rotated": false
+  },
+  "belt_smart_suit.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 15,
+    "rotated": false
+  },
+  "belt_snow.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 15,
+    "rotated": false
+  },
+  "belt_star.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 15,
+    "rotated": false
+  },
+  "belt_stealth.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 15,
+    "rotated": false
+  },
+  "belt_suit.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 15,
+    "rotated": false
+  },
+  "belt_tactical.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 15,
+    "rotated": false
+  },
+  "belt_tux.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 15,
+    "rotated": false
+  },
+  "belt_two_tone.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 15,
+    "rotated": false
+  },
+  "belt_vinaceous.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 15,
+    "rotated": false
+  },
+  "belt_weathered.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 15,
+    "rotated": false
+  },
+  "belt_woodland.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 15,
+    "rotated": false
+  },
+  "eyebrows_bps2_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 31,
+    "height": 9,
+    "rotated": false
+  },
+  "eyebrows_bps2_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 33,
+    "height": 9,
+    "rotated": false
+  },
+  "eyebrows_bps2_premium_2.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 33,
+    "height": 9,
+    "rotated": false
+  },
+  "eyebrows_bps3_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 33,
+    "height": 10,
+    "rotated": false
+  },
+  "eyebrows_bps3_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 31,
+    "height": 10,
+    "rotated": false
+  },
+  "eyebrows_bps4_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 29,
+    "height": 8,
+    "rotated": false
+  },
+  "eyebrows_bps5_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 31,
+    "height": 8,
+    "rotated": false
+  },
+  "eyebrows_bps5_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 37,
+    "height": 19,
+    "rotated": false
+  },
+  "eyebrows_bps6_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 29,
+    "height": 10,
+    "rotated": false
+  },
+  "eyebrows_bps6_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 31,
+    "height": 8,
+    "rotated": false
+  },
+  "eyes_bps2_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 25,
+    "height": 8,
+    "rotated": false
+  },
+  "eyes_bps2_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 27,
+    "height": 8,
+    "rotated": false
+  },
+  "eyes_bps2_premium_2.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 31,
+    "height": 11,
+    "rotated": false
+  },
+  "eyes_bps3_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 31,
+    "height": 11,
+    "rotated": false
+  },
+  "eyes_bps3_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 33,
+    "height": 12,
+    "rotated": false
+  },
+  "eyes_bps4_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 29,
+    "height": 13,
+    "rotated": false
+  },
+  "eyes_bps5_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 27,
+    "height": 9,
+    "rotated": false
+  },
+  "eyes_bps5_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 27,
+    "height": 10,
+    "rotated": false
+  },
+  "eyes_bps6_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 27,
+    "height": 18,
+    "rotated": false
+  },
+  "eyes_bps6_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 27,
+    "height": 9,
+    "rotated": false
+  },
+  "face_bps1_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 53,
+    "rotated": false
+  },
+  "face_bps5_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 55,
+    "height": 53,
+    "rotated": false
+  },
+  "foot.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 34,
+    "height": 18,
+    "rotated": false
+  },
+  "gender_arm1.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 30,
+    "height": 14,
+    "rotated": false
+  },
+  "gender_arm2.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 32,
+    "height": 14,
+    "rotated": false
+  },
+  "gender_leg1.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 18,
+    "height": 29,
+    "rotated": false
+  },
+  "gender_leg2.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 20,
+    "height": 30,
+    "rotated": false
+  },
+  "glasses_aviators.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 15,
+    "rotated": false
+  },
+  "glasses_bps1_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 65,
+    "height": 24,
+    "rotated": false
+  },
+  "glasses_bps2_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 9,
+    "height": 23,
+    "rotated": false
+  },
+  "glasses_bps3_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 57,
+    "height": 24,
+    "rotated": false
+  },
+  "glasses_bps4_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 59,
+    "height": 28,
+    "rotated": false
+  },
+  "glasses_bps5_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 29,
+    "height": 5,
+    "rotated": false
+  },
+  "glasses_camo_shades.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 16,
+    "rotated": false
+  },
+  "glasses_disguise.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 47,
+    "height": 22,
+    "rotated": false
+  },
+  "glasses_double_frame.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 43,
+    "height": 15,
+    "rotated": false
+  },
+  "glasses_golden_shutters.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 20,
+    "rotated": false
+  },
+  "glasses_semi_rimless.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 15,
+    "rotated": false
+  },
+  "glasses_silver_cat_eyes.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 16,
+    "rotated": false
+  },
+  "glasses_silver_round.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 18,
+    "rotated": false
+  },
+  "glasses_silver_square_specs.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 53,
+    "height": 15,
+    "rotated": false
+  },
+  "glasses_star.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 53,
+    "height": 21,
+    "rotated": false
+  },
+  "glasses_thick_shades.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 16,
+    "rotated": false
+  },
+  "glasses_thick_silver_shades.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 45,
+    "height": 16,
+    "rotated": false
+  },
+  "glasses_thick_specs.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 17,
+    "rotated": false
+  },
+  "glasses_thug_life.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 47,
+    "height": 11,
+    "rotated": false
+  },
+  "glasses_vintage.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 61,
+    "height": 19,
+    "rotated": false
+  },
+  "glove_bps2_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 14,
+    "height": 16,
+    "rotated": false
+  },
+  "glove_bps2_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 12,
+    "height": 21,
+    "rotated": false
+  },
+  "glove_bps2_premium_2.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 18,
+    "height": 22,
+    "rotated": false
+  },
+  "gloves_blue.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 18,
+    "height": 20,
+    "rotated": false
+  },
+  "gloves_bps1_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 21,
+    "rotated": false
+  },
+  "gloves_bps1_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 22,
+    "rotated": false
+  },
+  "gloves_bps3_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 16,
+    "height": 20,
+    "rotated": false
+  },
+  "gloves_bps3_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 18,
+    "height": 22,
+    "rotated": false
+  },
+  "gloves_bps4_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 18,
+    "height": 20,
+    "rotated": false
+  },
+  "gloves_bps4_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 20,
+    "height": 21,
+    "rotated": false
+  },
+  "gloves_bps5_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 20,
+    "height": 19,
+    "rotated": false
+  },
+  "gloves_bps5_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 20,
+    "height": 21,
+    "rotated": false
+  },
+  "gloves_bps6_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 18,
+    "height": 23,
+    "rotated": false
+  },
+  "gloves_bps6_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 16,
+    "height": 23,
+    "rotated": false
+  },
+  "gloves_branded.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 18,
+    "height": 20,
+    "rotated": false
+  },
+  "gloves_brown.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 18,
+    "height": 20,
+    "rotated": false
+  },
+  "gloves_camo.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 18,
+    "height": 20,
+    "rotated": false
+  },
+  "gloves_cosmic_gauntlets.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 24,
+    "height": 22,
+    "rotated": false
+  },
+  "gloves_green.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 18,
+    "height": 20,
+    "rotated": false
+  },
+  "gloves_layered.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 18,
+    "height": 20,
+    "rotated": false
+  },
+  "gloves_mascot.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 18,
+    "height": 20,
+    "rotated": false
+  },
+  "gloves_mittens.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 18,
+    "height": 20,
+    "rotated": false
+  },
+  "gloves_rocket_punch.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 24,
+    "height": 21,
+    "rotated": false
+  },
+  "gloves_striped.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 18,
+    "height": 20,
+    "rotated": false
+  },
+  "gloves_thick_gray.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 18,
+    "height": 20,
+    "rotated": false
+  },
+  "gloves_thick_tan.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 18,
+    "height": 20,
+    "rotated": false
+  },
+  "gloves_trendy.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 18,
+    "height": 20,
+    "rotated": false
+  },
+  "gloves_two_toned.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 18,
+    "height": 20,
+    "rotated": false
+  },
+  "hair_bps1_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 65,
+    "height": 37,
+    "rotated": false
+  },
+  "hair_bps2_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 39,
+    "rotated": false
+  },
+  "hair_bps2_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 65,
+    "height": 52,
+    "rotated": false
+  },
+  "hair_bps3_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 61,
+    "height": 37,
+    "rotated": false
+  },
+  "hair_bps3_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 55,
+    "height": 48,
+    "rotated": false
+  },
+  "hair_bps5_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 55,
+    "height": 35,
+    "rotated": false
+  },
+  "hair_bps6_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 47,
+    "height": 30,
+    "rotated": false
+  },
+  "hair_bps6_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 37,
+    "height": 29,
+    "rotated": false
+  },
+  "hair_effect_bps2_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 53,
+    "height": 41,
+    "rotated": false
+  },
+  "hair_effect_bps2_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 67,
+    "height": 52,
+    "rotated": false
+  },
+  "hair_effect_bps3_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 61,
+    "height": 37,
+    "rotated": false
+  },
+  "hair_effect_bps3_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 55,
+    "height": 48,
+    "rotated": false
+  },
+  "hair_l1_bps4_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 63,
+    "height": 37,
+    "rotated": false
+  },
+  "hair_l1_bps4_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 53,
+    "height": 35,
+    "rotated": false
+  },
+  "hair_l2_bps4_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 57,
+    "height": 37,
+    "rotated": false
+  },
+  "hair_l2_bps4_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 53,
+    "height": 35,
+    "rotated": false
+  },
+  "hand.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 18,
+    "height": 20,
+    "rotated": false
+  },
+  "hat_army_back.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 15,
+    "height": 14,
+    "rotated": false
+  },
+  "hat_bandanna_back.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 23,
+    "height": 30,
+    "rotated": false
+  },
+  "hat_boonie_back.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 75,
+    "height": 36,
+    "rotated": false
+  },
+  "hat_bps1_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 69,
+    "height": 64,
+    "rotated": false
+  },
+  "hat_bps2_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 71,
+    "height": 72,
+    "rotated": false
+  },
+  "hat_bps2_premium_2.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 61,
+    "height": 69,
+    "rotated": false
+  },
+  "hat_bps4_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 28,
+    "rotated": false
+  },
+  "hat_bps5_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 73,
+    "height": 37,
+    "rotated": false
+  },
+  "hat_bps5_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 65,
+    "height": 43,
+    "rotated": false
+  },
+  "hat_bps6_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 55,
+    "height": 30,
+    "rotated": false
+  },
+  "hat_bps6_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 73,
+    "height": 40,
+    "rotated": false
+  },
+  "hat_desert_back.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 15,
+    "height": 14,
+    "rotated": false
+  },
+  "hat_football_back.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 33,
+    "rotated": false
+  },
+  "mouth_bps2_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 15,
+    "height": 9,
+    "rotated": false
+  },
+  "mouth_bps2_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 13,
+    "height": 5,
+    "rotated": false
+  },
+  "mouth_bps3_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 21,
+    "height": 7,
+    "rotated": false
+  },
+  "mouth_bps3_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 21,
+    "height": 9,
+    "rotated": false
+  },
+  "mouth_bps4_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 39,
+    "height": 23,
+    "rotated": false
+  },
+  "mouth_bps5_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 17,
+    "height": 5,
+    "rotated": false
+  },
+  "mouth_bps5_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 29,
+    "height": 19,
+    "rotated": false
+  },
+  "mouth_bps6_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 15,
+    "height": 6,
+    "rotated": false
+  },
+  "mouth_bps6_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 25,
+    "height": 13,
+    "rotated": false
+  },
+  "mustache_bps2_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 25,
+    "height": 9,
+    "rotated": false
+  },
+  "mustache_bps2_premium_2.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 25,
+    "height": 13,
+    "rotated": false
+  },
+  "pants_bps1_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 24,
+    "height": 29,
+    "rotated": false
+  },
+  "pants_bps1_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 28,
+    "height": 32,
+    "rotated": false
+  },
+  "pants_bps2_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 28,
+    "height": 30,
+    "rotated": false
+  },
+  "pants_bps2_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 30,
+    "height": 29,
+    "rotated": false
+  },
+  "pants_bps2_premium_2.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 30,
+    "height": 29,
+    "rotated": false
+  },
+  "pants_bps3_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 28,
+    "height": 31,
+    "rotated": false
+  },
+  "pants_bps3_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 30,
+    "height": 30,
+    "rotated": false
+  },
+  "pants_bps4_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 33,
+    "rotated": false
+  },
+  "pants_bps4_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 30,
+    "rotated": false
+  },
+  "pants_bps5_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 29,
+    "rotated": false
+  },
+  "pants_bps5_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 28,
+    "rotated": false
+  },
+  "pants_bps6_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 28,
+    "rotated": false
+  },
+  "pants_bps6_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 28,
+    "rotated": false
+  },
+  "pants_dashed.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 29,
+    "rotated": false
+  },
+  "pants_hemmed.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 29,
+    "rotated": false
+  },
+  "pants_jogging.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 29,
+    "rotated": false
+  },
+  "pants_layered.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 29,
+    "rotated": false
+  },
+  "pants_lightning.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 29,
+    "rotated": false
+  },
+  "pants_prison.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 29,
+    "rotated": false
+  },
+  "pants_star.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 29,
+    "rotated": false
+  },
+  "pants_suit.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 28,
+    "height": 29,
+    "rotated": false
+  },
+  "pants_two_tone.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 29,
+    "rotated": false
+  },
+  "pants_vinaceous.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 29,
+    "rotated": false
+  },
+  "pants_weathered.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 29,
+    "rotated": false
+  },
+  "shirt_belted.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 49,
+    "rotated": false
+  },
+  "shirt_bowtie_suit.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 50,
+    "rotated": false
+  },
+  "shirt_bps1_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 51,
+    "rotated": false
+  },
+  "shirt_bps1_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 52,
+    "rotated": false
+  },
+  "shirt_bps2_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 44,
+    "rotated": false
+  },
+  "shirt_bps2_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 41,
+    "rotated": false
+  },
+  "shirt_bps2_premium_2.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 40,
+    "rotated": false
+  },
+  "shirt_bps3_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 47,
+    "rotated": false
+  },
+  "shirt_bps3_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 50,
+    "rotated": false
+  },
+  "shirt_bps4_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 53,
+    "rotated": false
+  },
+  "shirt_bps4_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 53,
+    "rotated": false
+  },
+  "shirt_bps5_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 55,
+    "rotated": false
+  },
+  "shirt_bps5_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 53,
+    "rotated": false
+  },
+  "shirt_bps6_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 47,
+    "height": 51,
+    "rotated": false
+  },
+  "shirt_bps6_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 55,
+    "rotated": false
+  },
+  "shirt_buttoned.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 49,
+    "rotated": false
+  },
+  "shirt_camo_top.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 50,
+    "rotated": false
+  },
+  "shirt_gray_polo.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 51,
+    "rotated": false
+  },
+  "shirt_medieval_garb.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 49,
+    "rotated": false
+  },
+  "shirt_pocketed.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 51,
+    "rotated": false
+  },
+  "shirt_prison_garb.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 49,
+    "rotated": false
+  },
+  "shirt_punk.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 49,
+    "rotated": false
+  },
+  "shirt_star.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 49,
+    "rotated": false
+  },
+  "shirt_striped_top.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 50,
+    "rotated": false
+  },
+  "shirt_two_tone.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 50,
+    "rotated": false
+  },
+  "shirt_two_tone_top.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 50,
+    "rotated": false
+  },
+  "shoe.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 35,
+    "height": 20,
+    "rotated": false
+  },
+  "shoe_bps2_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 36,
+    "height": 18,
+    "rotated": false
+  },
+  "shoe_bps2_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 36,
+    "height": 15,
+    "rotated": false
+  },
+  "shoe_bps2_premium_2.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 36,
+    "height": 18,
+    "rotated": false
+  },
+  "shoes_blue_boots.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 34,
+    "height": 20,
+    "rotated": false
+  },
+  "shoes_bps1_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 36,
+    "height": 23,
+    "rotated": false
+  },
+  "shoes_bps1_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 36,
+    "height": 21,
+    "rotated": false
+  },
+  "shoes_bps3_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 36,
+    "height": 20,
+    "rotated": false
+  },
+  "shoes_bps3_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 36,
+    "height": 19,
+    "rotated": false
+  },
+  "shoes_bps4_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 36,
+    "height": 16,
+    "rotated": false
+  },
+  "shoes_bps4_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 36,
+    "height": 18,
+    "rotated": false
+  },
+  "shoes_bps5_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 36,
+    "height": 19,
+    "rotated": false
+  },
+  "shoes_bps5_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 36,
+    "height": 22,
+    "rotated": false
+  },
+  "shoes_bps6_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 36,
+    "height": 18,
+    "rotated": false
+  },
+  "shoes_bps6_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 36,
+    "height": 17,
+    "rotated": false
+  },
+  "shoes_branded.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 34,
+    "height": 20,
+    "rotated": false
+  },
+  "shoes_brown_boots.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 34,
+    "height": 20,
+    "rotated": false
+  },
+  "shoes_camo_boots.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 34,
+    "height": 20,
+    "rotated": false
+  },
+  "shoes_checkered.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 34,
+    "height": 20,
+    "rotated": false
+  },
+  "shoes_designer_boots.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 36,
+    "height": 24,
+    "rotated": false
+  },
+  "shoes_gray_sole_boots.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 34,
+    "height": 20,
+    "rotated": false
+  },
+  "shoes_green_boots.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 34,
+    "height": 20,
+    "rotated": false
+  },
+  "shoes_layered_boots.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 34,
+    "height": 20,
+    "rotated": false
+  },
+  "shoes_self_lacing_boots.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 34,
+    "height": 23,
+    "rotated": false
+  },
+  "shoes_stripped_boots.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 34,
+    "height": 20,
+    "rotated": false
+  },
+  "shoes_suede.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 34,
+    "height": 20,
+    "rotated": false
+  },
+  "shoes_tan_sole_boots.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 34,
+    "height": 20,
+    "rotated": false
+  },
+  "shoes_trendy.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 34,
+    "height": 20,
+    "rotated": false
+  },
+  "shoes_two_toned_boots.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 34,
+    "height": 20,
+    "rotated": false
+  },
+  "shoes_x_ray.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 34,
+    "height": 20,
+    "rotated": false
+  },
+  "sleeve_belted.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 32,
+    "height": 18,
+    "rotated": false
+  },
+  "sleeve_bowtie_suit.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 32,
+    "height": 18,
+    "rotated": false
+  },
+  "sleeve_bps1_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 32,
+    "height": 18,
+    "rotated": false
+  },
+  "sleeve_bps1_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 24,
+    "height": 19,
+    "rotated": false
+  },
+  "sleeve_bps2_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 36,
+    "height": 21,
+    "rotated": false
+  },
+  "sleeve_bps2_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 38,
+    "height": 23,
+    "rotated": false
+  },
+  "sleeve_bps2_premium_2.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 36,
+    "height": 21,
+    "rotated": false
+  },
+  "sleeve_bps3_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 36,
+    "height": 21,
+    "rotated": false
+  },
+  "sleeve_bps3_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 36,
+    "height": 23,
+    "rotated": false
+  },
+  "sleeve_bps4_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 23,
+    "rotated": false
+  },
+  "sleeve_bps4_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 32,
+    "height": 23,
+    "rotated": false
+  },
+  "sleeve_bps5_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 34,
+    "height": 23,
+    "rotated": false
+  },
+  "sleeve_bps5_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 36,
+    "height": 23,
+    "rotated": false
+  },
+  "sleeve_bps6_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 26,
+    "height": 21,
+    "rotated": false
+  },
+  "sleeve_bps6_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 34,
+    "height": 18,
+    "rotated": false
+  },
+  "sleeve_business.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 32,
+    "height": 19,
+    "rotated": false
+  },
+  "sleeve_buttoned.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 30,
+    "height": 19,
+    "rotated": false
+  },
+  "sleeve_desert.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 32,
+    "height": 19,
+    "rotated": false
+  },
+  "sleeve_gray_polo.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 16,
+    "height": 15,
+    "rotated": false
+  },
+  "sleeve_india.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 18,
+    "height": 20,
+    "rotated": false
+  },
+  "sleeve_medieval_garb.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 32,
+    "height": 18,
+    "rotated": false
+  },
+  "sleeve_navy.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 32,
+    "height": 19,
+    "rotated": false
+  },
+  "sleeve_pocketed.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 32,
+    "height": 18,
+    "rotated": false
+  },
+  "sleeve_prison_garb.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 32,
+    "height": 18,
+    "rotated": false
+  },
+  "sleeve_private.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 32,
+    "height": 18,
+    "rotated": false
+  },
+  "sleeve_punk.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 20,
+    "height": 15,
+    "rotated": false
+  },
+  "sleeve_red_patch.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 16,
+    "height": 20,
+    "rotated": false
+  },
+  "sleeve_santa.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 34,
+    "height": 21,
+    "rotated": false
+  },
+  "sleeve_sergeant.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 32,
+    "height": 18,
+    "rotated": false
+  },
+  "sleeve_service.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 32,
+    "height": 19,
+    "rotated": false
+  },
+  "sleeve_smart_suit.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 34,
+    "height": 19,
+    "rotated": false
+  },
+  "sleeve_snow.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 32,
+    "height": 19,
+    "rotated": false
+  },
+  "sleeve_star.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 32,
+    "height": 18,
+    "rotated": false
+  },
+  "sleeve_stealth.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 32,
+    "height": 18,
+    "rotated": false
+  },
+  "sleeve_tux.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 34,
+    "height": 19,
+    "rotated": false
+  },
+  "sleeve_two_tone.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 32,
+    "height": 18,
+    "rotated": false
+  },
+  "vest2_bps3_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 69,
+    "height": 42,
+    "rotated": false
+  },
+  "vest_adventurer.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 45,
+    "rotated": false
+  },
+  "vest_aviator.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 49,
+    "height": 49,
+    "rotated": false
+  },
+  "vest_belted.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 39,
+    "rotated": false
+  },
+  "vest_bps1_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 16,
+    "rotated": false
+  },
+  "vest_bps3_premium.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 53,
+    "rotated": false
+  },
+  "vest_bps6_free.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 29,
+    "height": 31,
+    "rotated": false
+  },
+  "vest_checkered.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 45,
+    "rotated": false
+  },
+  "vest_cowboy.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 45,
+    "rotated": false
+  },
+  "vest_denim_clasps.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 49,
+    "rotated": false
+  },
+  "vest_grenade_belt.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 23,
+    "rotated": false
+  },
+  "vest_gunslinger.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 45,
+    "rotated": false
+  },
+  "vest_metal_belt.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 18,
+    "rotated": false
+  },
+  "vest_padded.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 45,
+    "rotated": false
+  },
+  "vest_pelt_strap.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 29,
+    "height": 49,
+    "rotated": false
+  },
+  "vest_safety.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 39,
+    "rotated": false
+  },
+  "vest_shell_belt.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 39,
+    "rotated": false
+  },
+  "vest_suspenders.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 39,
+    "height": 50,
+    "rotated": false
+  },
+  "vest_tan_body_armor.png": {
+    "atlas": "avatarPieces.plist",
+    "width": 51,
+    "height": 39,
+    "rotated": false
+  },
+  "Map_Outpost.png": {
+    "atlas": "standalone",
+    "width": 333,
+    "height": 100,
+    "rotated": false
+  },
+  "bg_new.png": {
+    "atlas": "standalone",
+    "width": 505,
+    "height": 335,
+    "rotated": false
+  },
+  "MenuBackground.png": {
+    "atlas": "standalone",
+    "width": 800,
+    "height": 480,
+    "rotated": false
+  },
+  "tile64_new.png": {
+    "atlas": "standalone",
+    "width": 992,
+    "height": 992,
+    "rotated": false
+  }
+}
